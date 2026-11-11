@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Google Sign-In Web Client ID.
+         FREE setup (README.md, "Google Sign-In setup" section):
+         Google Cloud Console -> OAuth Client ID (Web) -> paste the ID below,
+         replacing PASTE_YOUR_WEB_CLIENT_ID_HERE.
+         Until then, the app shows a clear message and Guest mode works fully. -->
+    <string name="google_web_client_id">PASTE_YOUR_WEB_CLIENT_ID_HERE</string>
+</resources>

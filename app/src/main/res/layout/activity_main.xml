@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" android:padding="18dp">
+  <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="English Speakd 🗣️" android:textSize="32sp" android:textStyle="bold" />
+    <TextView android:id="@+id/tvSubtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="AI Voice Bot se English practice • Offline" android:textSize="15sp" />
+    <TextView android:id="@+id/tvPro" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Free: Lessons 1–5" android:textSize="14sp" android:layout_marginTop="8dp" />
+    <TextView android:id="@+id/tvStats" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="14sp" android:layout_marginTop="4dp" />
+    <Button android:id="@+id/btnSignIn" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="🔐 Sign in with Google" android:layout_marginTop="12dp" />
+    <Button android:id="@+id/btnBot" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="🤖 AI Voice Bot — Practice Conversation" android:layout_marginTop="12dp" />
+    <Button android:id="@+id/btnDaily" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="📅 Today's Lesson — 5 min" android:layout_marginTop="8dp" />
+    <Button android:id="@+id/btnWords" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="📖 Daily Words &amp; Sentences" android:layout_marginTop="8dp" />
+    <Button android:id="@+id/btnQuiz" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="📝 English Quiz — 10 Questions" android:layout_marginTop="8dp" />
+    <Button android:id="@+id/btnDrills" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="🎤 Speaking Drills — Bolo zor se!" android:layout_marginTop="8dp" />
+    <Button android:id="@+id/btnPro" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="🔓 Unlock Pro — ₹99 one-time" android:layout_marginTop="8dp" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Lessons" android:textSize="20sp" android:textStyle="bold" android:layout_marginTop="20dp" />
+    <ListView android:id="@+id/lvTests" android:layout_width="match_parent" android:layout_height="600dp" android:layout_marginTop="8dp" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Built by DEMi (@im666demi), Assam. Roz 5 minute, AI bot se bolo — dar kam, English zyada." android:textSize="12sp" android:layout_marginTop="16dp" />
+  </LinearLayout>
+</ScrollView>

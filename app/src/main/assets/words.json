@@ -1,0 +1,810 @@
+[
+  {
+    "id": "word-01",
+    "word": "important",
+    "meaning": "mahatvapurna",
+    "pronounce": "im-por-tunt",
+    "example": "This is very important.",
+    "example_hinglish": "Ye bahut mahatvapurna hai."
+  },
+  {
+    "id": "word-02",
+    "word": "beautiful",
+    "meaning": "sundar",
+    "pronounce": "byoo-ti-ful",
+    "example": "She is beautiful.",
+    "example_hinglish": "Wo sundar hai."
+  },
+  {
+    "id": "word-03",
+    "word": "difficult",
+    "meaning": "mushkil",
+    "pronounce": "dif-i-kult",
+    "example": "This work is difficult.",
+    "example_hinglish": "Ye kaam mushkil hai."
+  },
+  {
+    "id": "word-04",
+    "word": "easy",
+    "meaning": "aasan",
+    "pronounce": "ee-zee",
+    "example": "This is easy.",
+    "example_hinglish": "Ye aasan hai."
+  },
+  {
+    "id": "word-05",
+    "word": "happy",
+    "meaning": "khush",
+    "pronounce": "hap-ee",
+    "example": "I am happy today.",
+    "example_hinglish": "Main aaj khush hoon."
+  },
+  {
+    "id": "word-06",
+    "word": "sad",
+    "meaning": "dukhi",
+    "pronounce": "sad",
+    "example": "He is sad today.",
+    "example_hinglish": "Wo aaj dukhi hai."
+  },
+  {
+    "id": "word-07",
+    "word": "strong",
+    "meaning": "mazboot",
+    "pronounce": "strong",
+    "example": "He is very strong.",
+    "example_hinglish": "Wo bahut mazboot hai."
+  },
+  {
+    "id": "word-08",
+    "word": "quick",
+    "meaning": "tez / jaldi",
+    "pronounce": "kwik",
+    "example": "Please come quickly.",
+    "example_hinglish": "Kripya jaldi aaiye."
+  },
+  {
+    "id": "word-09",
+    "word": "slow",
+    "meaning": "dheere",
+    "pronounce": "slo",
+    "example": "Please speak slowly.",
+    "example_hinglish": "Kripya dheere boliye."
+  },
+  {
+    "id": "word-10",
+    "word": "brave",
+    "meaning": "bahadur",
+    "pronounce": "breiv",
+    "example": "She is a brave girl.",
+    "example_hinglish": "Wo ek bahadur ladki hai."
+  },
+  {
+    "id": "word-11",
+    "word": "honest",
+    "meaning": "imaandaar",
+    "pronounce": "on-ist",
+    "example": "He is an honest man.",
+    "example_hinglish": "Wo ek imaandaar aadmi hai."
+  },
+  {
+    "id": "word-12",
+    "word": "kind",
+    "meaning": "dayaalu",
+    "pronounce": "kaind",
+    "example": "She is very kind.",
+    "example_hinglish": "Wo bahut dayaalu hai."
+  },
+  {
+    "id": "word-13",
+    "word": "smart",
+    "meaning": "hoshiyaar",
+    "pronounce": "smaart",
+    "example": "He is very smart.",
+    "example_hinglish": "Wo bahut hoshiyaar hai."
+  },
+  {
+    "id": "word-14",
+    "word": "busy",
+    "meaning": "vyast",
+    "pronounce": "biz-ee",
+    "example": "I am busy right now.",
+    "example_hinglish": "Main abhi vyast hoon."
+  },
+  {
+    "id": "word-15",
+    "word": "free",
+    "meaning": "khaali / muft",
+    "pronounce": "free",
+    "example": "Are you free tomorrow?",
+    "example_hinglish": "Kya tum kal free ho?"
+  },
+  {
+    "id": "word-16",
+    "word": "ready",
+    "meaning": "taiyaar",
+    "pronounce": "red-ee",
+    "example": "I am ready.",
+    "example_hinglish": "Main taiyaar hoon."
+  },
+  {
+    "id": "word-17",
+    "word": "tired",
+    "meaning": "thaka hua",
+    "pronounce": "taierd",
+    "example": "I am tired today.",
+    "example_hinglish": "Main aaj thaka hua hoon."
+  },
+  {
+    "id": "word-18",
+    "word": "hungry",
+    "meaning": "bhookha",
+    "pronounce": "hung-gree",
+    "example": "I am hungry.",
+    "example_hinglish": "Mujhe bhookh lagi hai."
+  },
+  {
+    "id": "word-19",
+    "word": "thirsty",
+    "meaning": "pyaasa",
+    "pronounce": "thur-stee",
+    "example": "I am thirsty.",
+    "example_hinglish": "Mujhe pyaas lagi hai."
+  },
+  {
+    "id": "word-20",
+    "word": "angry",
+    "meaning": "gussa",
+    "pronounce": "ang-gree",
+    "example": "He is angry.",
+    "example_hinglish": "Wo gussa hai."
+  },
+  {
+    "id": "word-21",
+    "word": "polite",
+    "meaning": "vinamr",
+    "pronounce": "po-lait",
+    "example": "Please be polite.",
+    "example_hinglish": "Kripya vinamr rahiye."
+  },
+  {
+    "id": "word-22",
+    "word": "careful",
+    "meaning": "savdhaan",
+    "pronounce": "kair-ful",
+    "example": "Be careful on the road.",
+    "example_hinglish": "Sadak par savdhaan rahiye."
+  },
+  {
+    "id": "word-23",
+    "word": "dangerous",
+    "meaning": "khatarnaak",
+    "pronounce": "dein-jer-us",
+    "example": "This road is dangerous.",
+    "example_hinglish": "Ye sadak khatarnaak hai."
+  },
+  {
+    "id": "word-24",
+    "word": "famous",
+    "meaning": "prasiddh",
+    "pronounce": "fei-mus",
+    "example": "Guwahati is famous for tea.",
+    "example_hinglish": "Guwahati chai ke liye prasiddh hai."
+  },
+  {
+    "id": "word-25",
+    "word": "different",
+    "meaning": "alag",
+    "pronounce": "dif-rent",
+    "example": "This is different.",
+    "example_hinglish": "Ye alag hai."
+  },
+  {
+    "id": "word-26",
+    "word": "same",
+    "meaning": "wahi / ek jaisa",
+    "pronounce": "seim",
+    "example": "This is the same.",
+    "example_hinglish": "Ye wahi hai."
+  },
+  {
+    "id": "word-27",
+    "word": "new",
+    "meaning": "naya",
+    "pronounce": "nyoo",
+    "example": "I have a new phone.",
+    "example_hinglish": "Mere paas naya phone hai."
+  },
+  {
+    "id": "word-28",
+    "word": "old",
+    "meaning": "purana",
+    "pronounce": "old",
+    "example": "This is an old house.",
+    "example_hinglish": "Ye purana ghar hai."
+  },
+  {
+    "id": "word-29",
+    "word": "big",
+    "meaning": "bada",
+    "pronounce": "big",
+    "example": "This is a big city.",
+    "example_hinglish": "Ye bada sheher hai."
+  },
+  {
+    "id": "word-30",
+    "word": "small",
+    "meaning": "chhota",
+    "pronounce": "smol",
+    "example": "This is a small room.",
+    "example_hinglish": "Ye chhota kamra hai."
+  },
+  {
+    "id": "word-31",
+    "word": "long",
+    "meaning": "lamba",
+    "pronounce": "long",
+    "example": "This is a long road.",
+    "example_hinglish": "Ye lambi sadak hai."
+  },
+  {
+    "id": "word-32",
+    "word": "short",
+    "meaning": "chhota",
+    "pronounce": "short",
+    "example": "He is short.",
+    "example_hinglish": "Wo chhota hai."
+  },
+  {
+    "id": "word-33",
+    "word": "high",
+    "meaning": "uncha",
+    "pronounce": "hai",
+    "example": "This mountain is high.",
+    "example_hinglish": "Ye pahad uncha hai."
+  },
+  {
+    "id": "word-34",
+    "word": "low",
+    "meaning": "neecha",
+    "pronounce": "lo",
+    "example": "The price is low.",
+    "example_hinglish": "Keemat kam hai."
+  },
+  {
+    "id": "word-35",
+    "word": "hot",
+    "meaning": "garam",
+    "pronounce": "hot",
+    "example": "The tea is hot.",
+    "example_hinglish": "Chai garam hai."
+  },
+  {
+    "id": "word-36",
+    "word": "cold",
+    "meaning": "thanda",
+    "pronounce": "kold",
+    "example": "The water is cold.",
+    "example_hinglish": "Paani thanda hai."
+  },
+  {
+    "id": "word-37",
+    "word": "warm",
+    "meaning": "halka garam",
+    "pronounce": "worm",
+    "example": "The weather is warm.",
+    "example_hinglish": "Mausam halka garam hai."
+  },
+  {
+    "id": "word-38",
+    "word": "cool",
+    "meaning": "thanda / cool",
+    "pronounce": "kool",
+    "example": "It is cool today.",
+    "example_hinglish": "Aaj thanda hai."
+  },
+  {
+    "id": "word-39",
+    "word": "bright",
+    "meaning": "chamakdaar",
+    "pronounce": "brait",
+    "example": "The sun is bright.",
+    "example_hinglish": "Suraj chamakdaar hai."
+  },
+  {
+    "id": "word-40",
+    "word": "dark",
+    "meaning": "andhera",
+    "pronounce": "daark",
+    "example": "It is dark now.",
+    "example_hinglish": "Ab andhera hai."
+  },
+  {
+    "id": "word-41",
+    "word": "clean",
+    "meaning": "saaf",
+    "pronounce": "kleen",
+    "example": "My room is clean.",
+    "example_hinglish": "Mera kamra saaf hai."
+  },
+  {
+    "id": "word-42",
+    "word": "dirty",
+    "meaning": "ganda",
+    "pronounce": "dur-tee",
+    "example": "These clothes are dirty.",
+    "example_hinglish": "Ye kapde gande hain."
+  },
+  {
+    "id": "word-43",
+    "word": "rich",
+    "meaning": "ameer",
+    "pronounce": "rich",
+    "example": "He is rich.",
+    "example_hinglish": "Wo ameer hai."
+  },
+  {
+    "id": "word-44",
+    "word": "poor",
+    "meaning": "gareeb",
+    "pronounce": "poor",
+    "example": "He is poor but honest.",
+    "example_hinglish": "Wo gareeb hai par imaandaar hai."
+  },
+  {
+    "id": "word-45",
+    "word": "cheap",
+    "meaning": "sasta",
+    "pronounce": "cheep",
+    "example": "This is cheap.",
+    "example_hinglish": "Ye sasta hai."
+  },
+  {
+    "id": "word-46",
+    "word": "expensive",
+    "meaning": "mehenga",
+    "pronounce": "ek-spen-siv",
+    "example": "This is expensive.",
+    "example_hinglish": "Ye mehenga hai."
+  },
+  {
+    "id": "word-47",
+    "word": "early",
+    "meaning": "jaldi / subah",
+    "pronounce": "ur-lee",
+    "example": "Please come early.",
+    "example_hinglish": "Kripya jaldi aaiye."
+  },
+  {
+    "id": "word-48",
+    "word": "late",
+    "meaning": "der",
+    "pronounce": "leit",
+    "example": "I am late.",
+    "example_hinglish": "Mujhe der ho gayi."
+  },
+  {
+    "id": "word-49",
+    "word": "fast",
+    "meaning": "tez",
+    "pronounce": "faast",
+    "example": "He runs fast.",
+    "example_hinglish": "Wo tez daudta hai."
+  },
+  {
+    "id": "word-50",
+    "word": "safe",
+    "meaning": "surakshit",
+    "pronounce": "seif",
+    "example": "This place is safe.",
+    "example_hinglish": "Ye jagah surakshit hai."
+  },
+  {
+    "id": "word-51",
+    "word": "correct",
+    "meaning": "sahi",
+    "pronounce": "ko-rekt",
+    "example": "Your answer is correct.",
+    "example_hinglish": "Tumhara jawab sahi hai."
+  },
+  {
+    "id": "word-52",
+    "word": "wrong",
+    "meaning": "galat",
+    "pronounce": "rong",
+    "example": "This is wrong.",
+    "example_hinglish": "Ye galat hai."
+  },
+  {
+    "id": "word-53",
+    "word": "true",
+    "meaning": "sach",
+    "pronounce": "troo",
+    "example": "This is true.",
+    "example_hinglish": "Ye sach hai."
+  },
+  {
+    "id": "word-54",
+    "word": "false",
+    "meaning": "jhooth",
+    "pronounce": "fols",
+    "example": "That is false.",
+    "example_hinglish": "Wo jhooth hai."
+  },
+  {
+    "id": "word-55",
+    "word": "open",
+    "meaning": "khula",
+    "pronounce": "o-pen",
+    "example": "The shop is open.",
+    "example_hinglish": "Dukaan khuli hai."
+  },
+  {
+    "id": "word-56",
+    "word": "close",
+    "meaning": "band",
+    "pronounce": "kloz",
+    "example": "The shop is closed.",
+    "example_hinglish": "Dukaan band hai."
+  },
+  {
+    "id": "word-57",
+    "word": "full",
+    "meaning": "bhara hua",
+    "pronounce": "ful",
+    "example": "The bus is full.",
+    "example_hinglish": "Bus bhari hai."
+  },
+  {
+    "id": "word-58",
+    "word": "empty",
+    "meaning": "khaali",
+    "pronounce": "emp-tee",
+    "example": "The bottle is empty.",
+    "example_hinglish": "Botal khaali hai."
+  },
+  {
+    "id": "word-59",
+    "word": "heavy",
+    "meaning": "bhaari",
+    "pronounce": "hev-ee",
+    "example": "This bag is heavy.",
+    "example_hinglish": "Ye bag bhaari hai."
+  },
+  {
+    "id": "word-60",
+    "word": "light",
+    "meaning": "halka",
+    "pronounce": "lait",
+    "example": "This bag is light.",
+    "example_hinglish": "Ye bag halka hai."
+  },
+  {
+    "id": "word-61",
+    "word": "near",
+    "meaning": "paas",
+    "pronounce": "neer",
+    "example": "My house is near.",
+    "example_hinglish": "Mera ghar paas hai."
+  },
+  {
+    "id": "word-62",
+    "word": "far",
+    "meaning": "door",
+    "pronounce": "faar",
+    "example": "The station is far.",
+    "example_hinglish": "Station door hai."
+  },
+  {
+    "id": "word-63",
+    "word": "right",
+    "meaning": "daahina / sahi",
+    "pronounce": "rait",
+    "example": "Turn right.",
+    "example_hinglish": "Daahine mudo."
+  },
+  {
+    "id": "word-64",
+    "word": "left",
+    "meaning": "baayein",
+    "pronounce": "left",
+    "example": "Turn left.",
+    "example_hinglish": "Baayein mudo."
+  },
+  {
+    "id": "word-65",
+    "word": "straight",
+    "meaning": "seedha",
+    "pronounce": "streit",
+    "example": "Go straight.",
+    "example_hinglish": "Seedha jao."
+  },
+  {
+    "id": "word-66",
+    "word": "back",
+    "meaning": "peeche",
+    "pronounce": "bak",
+    "example": "Come back soon.",
+    "example_hinglish": "Jaldi wapas aao."
+  },
+  {
+    "id": "word-67",
+    "word": "forward",
+    "meaning": "aage",
+    "pronounce": "for-werd",
+    "example": "Please come forward.",
+    "example_hinglish": "Kripya aage aaiye."
+  },
+  {
+    "id": "word-68",
+    "word": "together",
+    "meaning": "saath",
+    "pronounce": "to-ge-dhar",
+    "example": "We will go together.",
+    "example_hinglish": "Hum saath jayenge."
+  },
+  {
+    "id": "word-69",
+    "word": "alone",
+    "meaning": "akele",
+    "pronounce": "a-lon",
+    "example": "I am alone.",
+    "example_hinglish": "Main akela hoon."
+  },
+  {
+    "id": "word-70",
+    "word": "everyone",
+    "meaning": "sab log",
+    "pronounce": "ev-ree-wun",
+    "example": "Everyone is happy.",
+    "example_hinglish": "Sab log khush hain."
+  },
+  {
+    "id": "word-71",
+    "word": "someone",
+    "meaning": "koi ek",
+    "pronounce": "sum-wun",
+    "example": "Someone is calling you.",
+    "example_hinglish": "Koi tumhe bula raha hai."
+  },
+  {
+    "id": "word-72",
+    "word": "nothing",
+    "meaning": "kuch nahi",
+    "pronounce": "nuth-ing",
+    "example": "There is nothing here.",
+    "example_hinglish": "Yahan kuch nahi hai."
+  },
+  {
+    "id": "word-73",
+    "word": "everything",
+    "meaning": "sab kuch",
+    "pronounce": "ev-ree-thing",
+    "example": "Everything is ready.",
+    "example_hinglish": "Sab kuch taiyaar hai."
+  },
+  {
+    "id": "word-74",
+    "word": "always",
+    "meaning": "hamesha",
+    "pronounce": "ol-weiz",
+    "example": "I always study.",
+    "example_hinglish": "Main hamesha padhta hoon."
+  },
+  {
+    "id": "word-75",
+    "word": "never",
+    "meaning": "kabhi nahi",
+    "pronounce": "nev-er",
+    "example": "I never lie.",
+    "example_hinglish": "Main kabhi jhooth nahi bolta."
+  },
+  {
+    "id": "word-76",
+    "word": "sometimes",
+    "meaning": "kabhi-kabhi",
+    "pronounce": "sum-taims",
+    "example": "I sometimes watch movies.",
+    "example_hinglish": "Main kabhi-kabhi film dekhta hoon."
+  },
+  {
+    "id": "word-77",
+    "word": "today",
+    "meaning": "aaj",
+    "pronounce": "to-dei",
+    "example": "Today is Monday.",
+    "example_hinglish": "Aaj Somvaar hai."
+  },
+  {
+    "id": "word-78",
+    "word": "tomorrow",
+    "meaning": "kal",
+    "pronounce": "to-mor-ro",
+    "example": "Tomorrow is Tuesday.",
+    "example_hinglish": "Kal Mangalvaar hai."
+  },
+  {
+    "id": "word-79",
+    "word": "yesterday",
+    "meaning": "kal (beeta hua)",
+    "pronounce": "yes-ter-dei",
+    "example": "Yesterday was Sunday.",
+    "example_hinglish": "Kal Ravivaar tha."
+  },
+  {
+    "id": "word-80",
+    "word": "morning",
+    "meaning": "subah",
+    "pronounce": "mor-ning",
+    "example": "Good morning.",
+    "example_hinglish": "Subah ka namaste."
+  },
+  {
+    "id": "word-81",
+    "word": "evening",
+    "meaning": "shaam",
+    "pronounce": "eev-ning",
+    "example": "Good evening.",
+    "example_hinglish": "Shaam ka namaste."
+  },
+  {
+    "id": "word-82",
+    "word": "night",
+    "meaning": "raat",
+    "pronounce": "nait",
+    "example": "Good night.",
+    "example_hinglish": "Shubh raatri."
+  },
+  {
+    "id": "word-83",
+    "word": "afternoon",
+    "meaning": "dopahar",
+    "pronounce": "aaf-ter-noon",
+    "example": "Good afternoon.",
+    "example_hinglish": "Dopahar ka namaste."
+  },
+  {
+    "id": "word-84",
+    "word": "week",
+    "meaning": "hafta",
+    "pronounce": "week",
+    "example": "This week is busy.",
+    "example_hinglish": "Ye hafta vyast hai."
+  },
+  {
+    "id": "word-85",
+    "word": "month",
+    "meaning": "mahina",
+    "pronounce": "munth",
+    "example": "This month is January.",
+    "example_hinglish": "Ye mahina January hai."
+  },
+  {
+    "id": "word-86",
+    "word": "year",
+    "meaning": "saal",
+    "pronounce": "yeer",
+    "example": "This year is 2026.",
+    "example_hinglish": "Ye saal 2026 hai."
+  },
+  {
+    "id": "word-87",
+    "word": "money",
+    "meaning": "paisa",
+    "pronounce": "mun-ee",
+    "example": "I need money.",
+    "example_hinglish": "Mujhe paisa chahiye."
+  },
+  {
+    "id": "word-88",
+    "word": "work",
+    "meaning": "kaam",
+    "pronounce": "wurk",
+    "example": "I have a lot of work.",
+    "example_hinglish": "Mere paas bahut kaam hai."
+  },
+  {
+    "id": "word-89",
+    "word": "school",
+    "meaning": "school",
+    "pronounce": "skool",
+    "example": "I go to school.",
+    "example_hinglish": "Main school jata hoon."
+  },
+  {
+    "id": "word-90",
+    "word": "friend",
+    "meaning": "dost",
+    "pronounce": "frend",
+    "example": "He is my friend.",
+    "example_hinglish": "Wo mera dost hai."
+  },
+  {
+    "id": "word-91",
+    "word": "family",
+    "meaning": "parivaar",
+    "pronounce": "fa-mi-lee",
+    "example": "My family is big.",
+    "example_hinglish": "Mera parivaar bada hai."
+  },
+  {
+    "id": "word-92",
+    "word": "water",
+    "meaning": "paani",
+    "pronounce": "wo-ter",
+    "example": "Please give me water.",
+    "example_hinglish": "Kripya mujhe paani dijiye."
+  },
+  {
+    "id": "word-93",
+    "word": "food",
+    "meaning": "khana",
+    "pronounce": "food",
+    "example": "I like Indian food.",
+    "example_hinglish": "Mujhe Bharatiya khana pasand hai."
+  },
+  {
+    "id": "word-94",
+    "word": "book",
+    "meaning": "kitaab",
+    "pronounce": "buk",
+    "example": "This is my book.",
+    "example_hinglish": "Ye meri kitaab hai."
+  },
+  {
+    "id": "word-95",
+    "word": "phone",
+    "meaning": "phone",
+    "pronounce": "fon",
+    "example": "My phone is new.",
+    "example_hinglish": "Mera phone naya hai."
+  },
+  {
+    "id": "word-96",
+    "word": "time",
+    "meaning": "samay",
+    "pronounce": "taim",
+    "example": "What is the time?",
+    "example_hinglish": "Samay kya hua hai?"
+  },
+  {
+    "id": "word-97",
+    "word": "place",
+    "meaning": "jagah",
+    "pronounce": "pleis",
+    "example": "This is a good place.",
+    "example_hinglish": "Ye acchi jagah hai."
+  },
+  {
+    "id": "word-98",
+    "word": "people",
+    "meaning": "log",
+    "pronounce": "pee-pul",
+    "example": "People are kind here.",
+    "example_hinglish": "Yahan log dayaalu hain."
+  },
+  {
+    "id": "word-99",
+    "word": "question",
+    "meaning": "sawal",
+    "pronounce": "kwes-chun",
+    "example": "I have a question.",
+    "example_hinglish": "Mera ek sawal hai."
+  },
+  {
+    "id": "word-100",
+    "word": "answer",
+    "meaning": "jawab",
+    "pronounce": "aan-ser",
+    "example": "Your answer is correct.",
+    "example_hinglish": "Tumhara jawab sahi hai."
+  },
+  {
+    "id": "word-101",
+    "word": "help",
+    "meaning": "madad",
+    "pronounce": "help",
+    "example": "Please help me.",
+    "example_hinglish": "Kripya meri madad kijiye."
+  }
+]

@@ -1,0 +1,365 @@
+[
+  {
+    "id": "conv-greet",
+    "title": "Greetings — Pehli baar milna",
+    "level": "Beginner",
+    "bot_opening": "Hello! Nice to meet you. What is your name?",
+    "steps": [
+      {
+        "bot": "Hello! Nice to meet you. What is your name?",
+        "hint": "Apna naam batao: 'My name is...'",
+        "keywords": [
+          "my name is",
+          "i am"
+        ]
+      },
+      {
+        "bot": "Nice to meet you! Where are you from?",
+        "hint": "Jagah batao: 'I am from Assam.'",
+        "keywords": [
+          "from",
+          "assam",
+          "guwahati"
+        ]
+      },
+      {
+        "bot": "Great! What do you do? Are you a student?",
+        "hint": "'I am a student.' ya 'I work as...'",
+        "keywords": [
+          "student",
+          "work",
+          "job",
+          "teacher"
+        ]
+      },
+      {
+        "bot": "Wonderful! It was nice talking to you. See you again!",
+        "hint": "'Nice to meet you too!' bolo.",
+        "keywords": [
+          "nice",
+          "thank",
+          "bye",
+          "see you"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conv-interview",
+    "title": "Interview Practice",
+    "level": "Intermediate",
+    "bot_opening": "Good morning. Please tell me about yourself.",
+    "steps": [
+      {
+        "bot": "Good morning. Please tell me about yourself.",
+        "hint": "Naam, jagah, padhai — 30 second me.",
+        "keywords": [
+          "my name",
+          "i am from",
+          "i have"
+        ]
+      },
+      {
+        "bot": "What are your strengths?",
+        "hint": "Ek strength + example: 'I am hardworking.'",
+        "keywords": [
+          "hardworking",
+          "honest",
+          "quick",
+          "team"
+        ]
+      },
+      {
+        "bot": "Why do you want this job?",
+        "hint": "'I want to learn and grow.'",
+        "keywords": [
+          "learn",
+          "grow",
+          "work",
+          "opportunity"
+        ]
+      },
+      {
+        "bot": "Thank you. Do you have any questions for me?",
+        "hint": "'Yes, what is the timing?' ya 'No, thank you.'",
+        "keywords": [
+          "yes",
+          "no",
+          "question",
+          "thank"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conv-shop",
+    "title": "At the Shop",
+    "level": "Beginner",
+    "bot_opening": "Hello! Welcome to my shop. How can I help you?",
+    "steps": [
+      {
+        "bot": "Hello! Welcome to my shop. How can I help you?",
+        "hint": "'I want...' se shuru karo.",
+        "keywords": [
+          "i want",
+          "i need",
+          "looking for"
+        ]
+      },
+      {
+        "bot": "This one is Rs 299. Do you like it?",
+        "hint": "'Yes, I like it.' ya 'How much is this?'",
+        "keywords": [
+          "yes",
+          "like",
+          "how much",
+          "price"
+        ]
+      },
+      {
+        "bot": "Would you like a bigger size?",
+        "hint": "'Yes, please.' ya 'No, this is fine.'",
+        "keywords": [
+          "yes",
+          "no",
+          "bigger",
+          "fine"
+        ]
+      },
+      {
+        "bot": "Thank you for shopping! Come again.",
+        "hint": "'Thank you!' bolo.",
+        "keywords": [
+          "thank",
+          "bye",
+          "come again"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conv-restaurant",
+    "title": "At a Restaurant",
+    "level": "Intermediate",
+    "bot_opening": "Good evening! Welcome. Would you like a table?",
+    "steps": [
+      {
+        "bot": "Good evening! Welcome. Would you like a table?",
+        "hint": "'Yes, for two people, please.'",
+        "keywords": [
+          "yes",
+          "table",
+          "two",
+          "please"
+        ]
+      },
+      {
+        "bot": "Here is the menu. What would you like to order?",
+        "hint": "'I would like...'",
+        "keywords": [
+          "would like",
+          "want",
+          "rice",
+          "tea"
+        ]
+      },
+      {
+        "bot": "Would you like anything to drink?",
+        "hint": "'Yes, one tea, please.'",
+        "keywords": [
+          "yes",
+          "tea",
+          "water",
+          "no"
+        ]
+      },
+      {
+        "bot": "Here is your bill. Thank you for coming!",
+        "hint": "'Thank you!'",
+        "keywords": [
+          "thank",
+          "bye"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conv-travel",
+    "title": "Travelling — Bus / Train",
+    "level": "Intermediate",
+    "bot_opening": "Hello! Where do you want to go?",
+    "steps": [
+      {
+        "bot": "Hello! Where do you want to go?",
+        "hint": "'I want to go to Guwahati.'",
+        "keywords": [
+          "go to",
+          "guwahati",
+          "want"
+        ]
+      },
+      {
+        "bot": "The ticket is Rs 100. When do you want to travel?",
+        "hint": "'Tomorrow morning.'",
+        "keywords": [
+          "tomorrow",
+          "morning",
+          "today"
+        ]
+      },
+      {
+        "bot": "The bus leaves at 9 o'clock. Is that okay?",
+        "hint": "'Yes, that is fine.'",
+        "keywords": [
+          "yes",
+          "okay",
+          "fine"
+        ]
+      },
+      {
+        "bot": "Have a safe journey!",
+        "hint": "'Thank you!'",
+        "keywords": [
+          "thank",
+          "bye"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conv-daily",
+    "title": "Talk About Your Day",
+    "level": "Beginner",
+    "bot_opening": "Hi! How was your day today?",
+    "steps": [
+      {
+        "bot": "Hi! How was your day today?",
+        "hint": "'My day was good.'",
+        "keywords": [
+          "good",
+          "fine",
+          "great",
+          "bad"
+        ]
+      },
+      {
+        "bot": "What did you do in the morning?",
+        "hint": "'I woke up at 7 and...'",
+        "keywords": [
+          "woke",
+          "went",
+          "studied",
+          "worked"
+        ]
+      },
+      {
+        "bot": "What will you do tomorrow?",
+        "hint": "'I will...'",
+        "keywords": [
+          "will",
+          "tomorrow",
+          "study",
+          "go"
+        ]
+      },
+      {
+        "bot": "Great talking to you! Keep practising.",
+        "hint": "'Thank you! Bye!'",
+        "keywords": [
+          "thank",
+          "bye"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conv-smalltalk",
+    "title": "Small Talk — Weather & Cricket",
+    "level": "Intermediate",
+    "bot_opening": "Hi! The weather is nice today, isn't it?",
+    "steps": [
+      {
+        "bot": "Hi! The weather is nice today, isn't it?",
+        "hint": "'Yes, it is nice.'",
+        "keywords": [
+          "yes",
+          "nice",
+          "good"
+        ]
+      },
+      {
+        "bot": "Did you watch the cricket match yesterday?",
+        "hint": "'Yes, India won!'",
+        "keywords": [
+          "yes",
+          "no",
+          "india",
+          "won"
+        ]
+      },
+      {
+        "bot": "Who is your favourite player?",
+        "hint": "'My favourite player is...'",
+        "keywords": [
+          "favourite",
+          "player",
+          "virat",
+          "rohit"
+        ]
+      },
+      {
+        "bot": "Nice chatting with you! See you soon.",
+        "hint": "'See you soon!'",
+        "keywords": [
+          "see you",
+          "bye",
+          "thank"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conv-phone",
+    "title": "On the Phone",
+    "level": "Intermediate",
+    "bot_opening": "Hello, this is Rahul speaking. Who is calling?",
+    "steps": [
+      {
+        "bot": "Hello, this is Rahul speaking. Who is calling?",
+        "hint": "'Hello, this is DEMi.'",
+        "keywords": [
+          "this is",
+          "hello",
+          "my name"
+        ]
+      },
+      {
+        "bot": "How can I help you?",
+        "hint": "'I want to ask about...'",
+        "keywords": [
+          "want",
+          "ask",
+          "need",
+          "about"
+        ]
+      },
+      {
+        "bot": "I am sorry, I did not understand. Can you repeat, please?",
+        "hint": "Dheere bolo, phir se bolo.",
+        "keywords": [
+          "repeat",
+          "sorry",
+          "again"
+        ]
+      },
+      {
+        "bot": "Thank you for calling. Goodbye!",
+        "hint": "'Thank you! Goodbye!'",
+        "keywords": [
+          "thank",
+          "bye"
+        ]
+      }
+    ]
+  }
+]

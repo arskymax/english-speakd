@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "lesson-01",
+    "title": "Greetings — Hello bolna",
+    "category": "Basics",
+    "level": "Beginner",
+    "intro": "Pehle din ka sabse easy lesson. Hello bolna seekho, bina dare.",
+    "tip": "Tip: 'How are you?' ka jawab sirf 'Fine' nahi — 'I am good, thank you!' bolo.",
+    "isPro": false,
+    "phrases": [
+      {
+        "hinglish": "Namaste, aap kaise hain?",
+        "english": "Hello, how are you?",
+        "pronounce": "he-lo, hau aar yoo?"
+      },
+      {
+        "hinglish": "Main theek hoon, dhanyavad.",
+        "english": "I am fine, thank you.",
+        "pronounce": "aai am fain, thenk yoo."
+      },
+      {
+        "hinglish": "Aapka naam kya hai?",
+        "english": "What is your name?",
+        "pronounce": "wot iz yor neem?"
+      },
+      {
+        "hinglish": "Mera naam DEMi hai.",
+        "english": "My name is DEMi.",
+        "pronounce": "mai neem iz DEMi."
+      },
+      {
+        "hinglish": "Aapse milkar khushi hui.",
+        "english": "Nice to meet you.",
+        "pronounce": "nais too meet yoo."
+      },
+      {
+        "hinglish": "Subah ka namaste.",
+        "english": "Good morning.",
+        "pronounce": "gud mor-ning."
+      },
+      {
+        "hinglish": "Phir milenge.",
+        "english": "See you again.",
+        "pronounce": "see yoo a-gen."
+      },
+      {
+        "hinglish": "Alvida, apna khayal rakhna.",
+        "english": "Goodbye, take care.",
+        "pronounce": "gud-bai, teik kair."
+      }
+    ]
+  },
+  {
+    "id": "lesson-02",
+    "title": "Introducing Yourself",
+    "category": "Basics",
+    "level": "Beginner",
+    "intro": "Interview ho ya naye dost — apna intro 30 second me dena seekho.",
+    "tip": "Tip: Pehle naam, phir jagah, phir kaam — isi order me bolo.",
+    "isPro": false,
+    "phrases": [
+      {
+        "hinglish": "Mera naam Ashiqur hai.",
+        "english": "My name is Ashiqur.",
+        "pronounce": "mai neem iz Ashiqur."
+      },
+      {
+        "hinglish": "Main Assam se hoon.",
+        "english": "I am from Assam.",
+        "pronounce": "aai am from Assam."
+      },
+      {
+        "hinglish": "Main Guwahati me rehta hoon.",
+        "english": "I live in Guwahati.",
+        "pronounce": "aai liv in Guwahati."
+      },
+      {
+        "hinglish": "Main ek student hoon.",
+        "english": "I am a student.",
+        "pronounce": "aai am a styoo-dent."
+      },
+      {
+        "hinglish": "Mujhe music pasand hai.",
+        "english": "I like music.",
+        "pronounce": "aai laik myoo-zik."
+      },
+      {
+        "hinglish": "Main English seekh raha hoon.",
+        "english": "I am learning English.",
+        "pronounce": "aai am ler-ning Ing-lish."
+      },
+      {
+        "hinglish": "Meri umar 20 saal hai.",
+        "english": "I am 20 years old.",
+        "pronounce": "aai am twenty yeers old."
+      },
+      {
+        "hinglish": "Ye mera dost hai.",
+        "english": "This is my friend.",
+        "pronounce": "dis iz mai frend."
+      }
+    ]
+  },
+  {
+    "id": "lesson-03",
+    "title": "Daily Routine",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "intro": "Roz ki zindagi English me batana — subah se raat tak.",
+    "tip": "Tip: Present simple use karo — 'I wake up', 'I eat', 'I go'.",
+    "isPro": false,
+    "phrases": [
+      {
+        "hinglish": "Main subah 7 baje uthta hoon.",
+        "english": "I wake up at 7 in the morning.",
+        "pronounce": "aai weik up at seven in da mor-ning."
+      },
+      {
+        "hinglish": "Main nahata hoon aur khana khata hoon.",
+        "english": "I take a bath and eat food.",
+        "pronounce": "aai teik a baath and eet food."
+      },
+      {
+        "hinglish": "Main college jata hoon.",
+        "english": "I go to college.",
+        "pronounce": "aai go too ko-lij."
+      },
+      {
+        "hinglish": "Main shaam ko padhta hoon.",
+        "english": "I study in the evening.",
+        "pronounce": "aai study in da eev-ning."
+      },
+      {
+        "hinglish": "Main raat ko 11 baje sota hoon.",
+        "english": "I sleep at 11 at night.",
+        "pronounce": "aai sleep at eleven at nait."
+      },
+      {
+        "hinglish": "Main roz exercise karta hoon.",
+        "english": "I exercise every day.",
+        "pronounce": "aai ek-ser-saiz ev-ree dei."
+      },
+      {
+        "hinglish": "Main chai peeta hoon.",
+        "english": "I drink tea.",
+        "pronounce": "aai drink tee."
+      },
+      {
+        "hinglish": "Main apne doston se milta hoon.",
+        "english": "I meet my friends.",
+        "pronounce": "aai meet mai frends."
+      }
+    ]
+  },
+  {
+    "id": "lesson-04",
+    "title": "At Home — Family",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "intro": "Ghar aur family ke baare me bolna.",
+    "tip": "Tip: 'My father is a teacher' — aise short sentences se start karo.",
+    "isPro": false,
+    "phrases": [
+      {
+        "hinglish": "Ye mera ghar hai.",
+        "english": "This is my home.",
+        "pronounce": "dis iz mai hoam."
+      },
+      {
+        "hinglish": "Mere parivar me 5 log hain.",
+        "english": "There are five people in my family.",
+        "pronounce": "dair aar faiv pee-pul in mai fa-mi-lee."
+      },
+      {
+        "hinglish": "Mere papa ek teacher hain.",
+        "english": "My father is a teacher.",
+        "pronounce": "mai faa-dhar iz a tee-cher."
+      },
+      {
+        "hinglish": "Meri mummy khana banati hain.",
+        "english": "My mother cooks food.",
+        "pronounce": "mai ma-dhar cooks food."
+      },
+      {
+        "hinglish": "Mera bhai chhota hai.",
+        "english": "My brother is younger than me.",
+        "pronounce": "mai bra-dhar iz yung-ger dan mee."
+      },
+      {
+        "hinglish": "Mujhe apna ghar pasand hai.",
+        "english": "I like my home.",
+        "pronounce": "aai laik mai hoam."
+      },
+      {
+        "hinglish": "Hum shaam ko saath khana khate hain.",
+        "english": "We eat dinner together in the evening.",
+        "pronounce": "wee eet din-ner to-ge-dhar in da eev-ning."
+      },
+      {
+        "hinglish": "Mera kamra saaf hai.",
+        "english": "My room is clean.",
+        "pronounce": "mai room iz kleen."
+      }
+    ]
+  },
+  {
+    "id": "lesson-05",
+    "title": "At the Shop / Market",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "intro": "Dukaan me English — price puchna, saman lena.",
+    "tip": "Tip: 'How much is this?' — ye ek line bahut kaam aayegi.",
+    "isPro": false,
+    "phrases": [
+      {
+        "hinglish": "Ye kitne ka hai?",
+        "english": "How much is this?",
+        "pronounce": "hau much iz dis?"
+      },
+      {
+        "hinglish": "Mujhe ek kilo chawal chahiye.",
+        "english": "I want one kilo of rice.",
+        "pronounce": "aai wont wun kee-lo ov rais."
+      },
+      {
+        "hinglish": "Kya aapke paas ye hai?",
+        "english": "Do you have this?",
+        "pronounce": "doo yoo hav dis?"
+      },
+      {
+        "hinglish": "Ye bahut mehenga hai.",
+        "english": "This is very expensive.",
+        "pronounce": "dis iz ve-ree ek-spen-siv."
+      },
+      {
+        "hinglish": "Kya aap thoda kam kar sakte hain?",
+        "english": "Can you reduce the price a little?",
+        "pronounce": "kan yoo re-dyoos da prais a lit-ul?"
+      },
+      {
+        "hinglish": "Main ye lunga.",
+        "english": "I will take this.",
+        "pronounce": "aai wil teik dis."
+      },
+      {
+        "hinglish": "Mujhe bill chahiye.",
+        "english": "I need the bill.",
+        "pronounce": "aai need da bil."
+      },
+      {
+        "hinglish": "Dhanyavad, phir aunga.",
+        "english": "Thank you, I will come again.",
+        "pronounce": "thenk yoo, aai wil kum a-gen."
+      }
+    ]
+  },
+  {
+    "id": "lesson-06",
+    "title": "At College / School",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "intro": "College me teacher aur doston se English me baat.",
+    "tip": "Tip: 'May I come in?' aur 'May I ask a question?' — ye polite lines hain.",
+    "isPro": true,
+    "phrases": [
+      {
+        "hinglish": "Kya main andar aa sakta hoon?",
+        "english": "May I come in?",
+        "pronounce": "mei aai kum in?"
+      },
+      {
+        "hinglish": "Mujhe ek sawal puchna hai.",
+        "english": "I want to ask a question.",
+        "pronounce": "aai wont too aask a kwes-chun."
+      },
+      {
+        "hinglish": "Mujhe ye samajh nahi aaya.",
+        "english": "I did not understand this.",
+        "pronounce": "aai did not under-stand dis."
+      },
+      {
+        "hinglish": "Kya aap phir se samjha sakte hain?",
+        "english": "Can you please explain again?",
+        "pronounce": "kan yoo pleez ek-splein a-gen?"
+      },
+      {
+        "hinglish": "Mera homework ho gaya hai.",
+        "english": "I have finished my homework.",
+        "pronounce": "aai hav fin-isht mai hoam-wurk."
+      },
+      {
+        "hinglish": "Kal exam hai.",
+        "english": "Tomorrow is the exam.",
+        "pronounce": "to-mor-ro iz da eg-zam."
+      },
+      {
+        "hinglish": "Main library me padh raha hoon.",
+        "english": "I am studying in the library.",
+        "pronounce": "aai am study-ing in da lai-bra-ree."
+      },
+      {
+        "hinglish": "Mera dost mere saath hai.",
+        "english": "My friend is with me.",
+        "pronounce": "mai frend iz with mee."
+      }
+    ]
+  },
+  {
+    "id": "lesson-07",
+    "title": "Talking to Friends",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "intro": "Doston se casual English — masti, plan, baat-cheet.",
+    "tip": "Tip: Dost ke saath 'What's up?' bolo — ye 'How are you?' ka casual version hai.",
+    "isPro": true,
+    "phrases": [
+      {
+        "hinglish": "Kya haal hai, dost?",
+        "english": "What's up, friend?",
+        "pronounce": "wots up, frend?"
+      },
+      {
+        "hinglish": "Tum kahan ja rahe ho?",
+        "english": "Where are you going?",
+        "pronounce": "wair aar yoo go-ing?"
+      },
+      {
+        "hinglish": "Chalo, chai peete hain.",
+        "english": "Let's go and have tea.",
+        "pronounce": "lets go and hav tee."
+      },
+      {
+        "hinglish": "Kal milte hain.",
+        "english": "Let's meet tomorrow.",
+        "pronounce": "lets meet to-mor-ro."
+      },
+      {
+        "hinglish": "Mujhe tumhari madad chahiye.",
+        "english": "I need your help.",
+        "pronounce": "aai need yor help."
+      },
+      {
+        "hinglish": "Ye bahut mazedaar hai!",
+        "english": "This is so much fun!",
+        "pronounce": "dis iz so much fun!"
+      },
+      {
+        "hinglish": "Main tumse baad me baat karunga.",
+        "english": "I will talk to you later.",
+        "pronounce": "aai wil tok too yoo lei-ter."
+      },
+      {
+        "hinglish": "Tum bahut acche dost ho.",
+        "english": "You are a very good friend.",
+        "pronounce": "yoo aar a ve-ree gud frend."
+      }
+    ]
+  },
+  {
+    "id": "lesson-08",
+    "title": "Asking for Help / Directions",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "intro": "Rasta puchna, madad mangna — bina sharmaaye.",
+    "tip": "Tip: 'Excuse me' se shuru karo, phir sawal pucho.",
+    "isPro": true,
+    "phrases": [
+      {
+        "hinglish": "Maaf kijiye, station kahan hai?",
+        "english": "Excuse me, where is the station?",
+        "pronounce": "ek-skyooz mee, wair iz da stay-shun?"
+      },
+      {
+        "hinglish": "Kya aap meri madad kar sakte hain?",
+        "english": "Can you help me, please?",
+        "pronounce": "kan yoo help mee, pleez?"
+      },
+      {
+        "hinglish": "Ye jagah kitni door hai?",
+        "english": "How far is this place?",
+        "pronounce": "hau faar iz dis pleis?"
+      },
+      {
+        "hinglish": "Main rasta bhool gaya hoon.",
+        "english": "I have lost my way.",
+        "pronounce": "aai hav lost mai wei."
+      },
+      {
+        "hinglish": "Kya yahan paas me hospital hai?",
+        "english": "Is there a hospital nearby?",
+        "pronounce": "iz dair a hos-pi-tul neer-bai?"
+      },
+      {
+        "hinglish": "Mujhe Guwahati jana hai.",
+        "english": "I want to go to Guwahati.",
+        "pronounce": "aai wont too go too Guwahati."
+      },
+      {
+        "hinglish": "Bus kab aayegi?",
+        "english": "When will the bus come?",
+        "pronounce": "wen wil da bus kum?"
+      },
+      {
+        "hinglish": "Aapki madad ke liye dhanyavad.",
+        "english": "Thank you for your help.",
+        "pronounce": "thenk yoo for yor help."
+      }
+    ]
+  },
+  {
+    "id": "lesson-09",
+    "title": "On the Phone",
+    "category": "Daily Life",
+    "level": "Intermediate",
+    "intro": "Phone pe English — hello bolna, message lena.",
+    "tip": "Tip: Phone pe 'Could you please repeat?' bolo agar sunai na de.",
+    "isPro": true,
+    "phrases": [
+      {
+        "hinglish": "Hello, main DEMi bol raha hoon.",
+        "english": "Hello, this is DEMi speaking.",
+        "pronounce": "he-lo, dis iz DEMi spee-king."
+      },
+      {
+        "hinglish": "Kya main Rahul se baat kar sakta hoon?",
+        "english": "Can I speak to Rahul, please?",
+        "pronounce": "kan aai speek too Rahul, pleez?"
+      },
+      {
+        "hinglish": "Wo abhi busy hai.",
+        "english": "He is busy right now.",
+        "pronounce": "hee iz biz-ee rait nau."
+      },
+      {
+        "hinglish": "Kya aap phir se bol sakte hain?",
+        "english": "Could you please repeat that?",
+        "pronounce": "kud yoo pleez re-peeet dat?"
+      },
+      {
+        "hinglish": "Main aapko baad me call karunga.",
+        "english": "I will call you later.",
+        "pronounce": "aai wil kol yoo lei-ter."
+      },
+      {
+        "hinglish": "Kripya message de dijiye.",
+        "english": "Please leave a message.",
+        "pronounce": "pleez leev a mes-ij."
+      },
+      {
+        "hinglish": "Mera number 98765 43210 hai.",
+        "english": "My number is 98765 43210.",
+        "pronounce": "mai num-ber iz ..."
+      },
+      {
+        "hinglish": "Alvida, dhanyavad.",
+        "english": "Goodbye, thank you.",
+        "pronounce": "gud-bai, thenk yoo."
+      }
+    ]
+  },
+  {
+    "id": "lesson-10",
+    "title": "At a Restaurant / Tea Stall",
+    "category": "Daily Life",
+    "level": "Intermediate",
+    "intro": "Khana order karna, bill mangna.",
+    "tip": "Tip: 'I would like...' polite hai — 'I want' se zyada achha lagta hai.",
+    "isPro": true,
+    "phrases": [
+      {
+        "hinglish": "Mujhe ek chai chahiye.",
+        "english": "I would like a cup of tea.",
+        "pronounce": "aai wud laik a kup ov tee."
+      },
+      {
+        "hinglish": "Menu dikhaiye, please.",
+        "english": "Please show me the menu.",
+        "pronounce": "pleez sho mee da men-yoo."
+      },
+      {
+        "hinglish": "Aaj ka special kya hai?",
+        "english": "What is today's special?",
+        "pronounce": "wot iz to-deiz spe-shul?"
+      },
+      {
+        "hinglish": "Mujhe veg khana chahiye.",
+        "english": "I want vegetarian food.",
+        "pronounce": "aai wont ve-ji-te-ri-un food."
+      },
+      {
+        "hinglish": "Khana bahut tasty hai.",
+        "english": "The food is very tasty.",
+        "pronounce": "da food iz ve-ree teis-tee."
+      },
+      {
+        "hinglish": "Mujhe ek aur roti chahiye.",
+        "english": "I want one more roti, please.",
+        "pronounce": "aai wont wun mor ro-tee, pleez."
+      },
+      {
+        "hinglish": "Bill le aaiye.",
+        "english": "Please bring the bill.",
+        "pronounce": "pleez bring da bil."
+      },
+      {
+        "hinglish": "Paise UPI se de sakta hoon?",
+        "english": "Can I pay by UPI?",
+        "pronounce": "kan aai pei bai UPI?"
+      }
+    ]
+  },
+  {
+    "id": "lesson-11",
+    "title": "Travelling — Bus / Train",
+    "category": "Daily Life",
+    "level": "Intermediate",
+    "intro": "Safar me English — ticket, time, jagah.",
+    "tip": "Tip: 'What time does the train leave?' — ye line yaad rakho.",
+    "isPro": true,
+    "phrases": [
+      {
+        "hinglish": "Ticket kitne ka hai?",
+        "english": "How much is the ticket?",
+        "pronounce": "hau much iz da tik-it?"
+      },
+      {
+        "hinglish": "Train kab chhutegi?",
+        "english": "What time does the train leave?",
+        "pronounce": "wot taim duz da trein leev?"
+      },
+      {
+        "hinglish": "Mujhe Guwahati ka ticket chahiye.",
+        "english": "I want a ticket to Guwahati.",
+        "pronounce": "aai wont a tik-it too Guwahati."
+      },
+      {
+        "hinglish": "Ye seat khaali hai?",
+        "english": "Is this seat free?",
+        "pronounce": "iz dis seet free?"
+      },
+      {
+        "hinglish": "Mujhe khidki wali seat chahiye.",
+        "english": "I want a window seat.",
+        "pronounce": "aai wont a win-do seet."
+      },
+      {
+        "hinglish": "Bus kitne baje aayegi?",
+        "english": "What time will the bus arrive?",
+        "pronounce": "wot taim wil da bus a-raiv?"
+      },
+      {
+        "hinglish": "Mujhe yahan utarna hai.",
+        "english": "I want to get down here.",
+        "pronounce": "aai wont too get daun heer."
+      },
+      {
+        "hinglish": "Safar accha raha, dhanyavad.",
+        "english": "The journey was good, thank you.",
+        "pronounce": "da jer-nee woz gud, thenk yoo."
+      }
+    ]
+  },
+  {
+    "id": "lesson-12",
+    "title": "At Work / Office",
+    "category": "Work",
+    "level": "Intermediate",
+    "intro": "Office me English — kaam, meeting, boss se baat.",
+    "tip": "Tip: Office me 'Could you please...' se baat shuru karo, polite lagta hai.",
+    "isPro": true,
+    "phrases": [
+      {
+        "hinglish": "Good morning, sir.",
+        "english": "Good morning, sir.",
+        "pronounce": "gud mor-ning, ser."
+      },
+      {
+        "hinglish": "Maine kaam pura kar liya hai.",
+        "english": "I have finished the work.",
+        "pronounce": "aai hav fin-isht da wurk."
+      },
+      {
+        "hinglish": "Kya aap meri madad kar sakte hain?",
+        "english": "Could you please help me?",
+        "pronounce": "kud yoo pleez help mee?"
+      },
+      {
+        "hinglish": "Meeting kab hai?",
+        "english": "When is the meeting?",
+        "pronounce": "wen iz da mee-ting?"
+      },
+      {
+        "hinglish": "Main 5 minute late hounga.",
+        "english": "I will be five minutes late.",
+        "pronounce": "aai wil bee faiv min-its leit."
+      },
+      {
+        "hinglish": "Mujhe kal chhutti chahiye.",
+        "english": "I need leave tomorrow.",
+        "pronounce": "aai need leev to-mor-ro."
+      },
+      {
+        "hinglish": "Ye report taiyaar hai.",
+        "english": "This report is ready.",
+        "pronounce": "dis re-port iz red-ee."
+      },
+      {
+        "hinglish": "Main aapko email bhejunga.",
+        "english": "I will send you an email.",
+        "pronounce": "aai wil send yoo an ee-mail."
+      }
+    ]
+  },
+  {
+    "id": "lesson-13",
+    "title": "Interview — Tell Me About Yourself",
+    "category": "Interview",
+    "level": "Intermediate",
+    "intro": "Interview ka sabse common sawal — apna intro.",
+    "tip": "Tip: 30 second me bolo — naam, jagah, padhai, aur ek strength.",
+    "isPro": true,
+    "phrases": [
+      {
+        "hinglish": "Mera naam DEMi hai.",
+        "english": "My name is DEMi.",
+        "pronounce": "mai neem iz DEMi."
+      },
+      {
+        "hinglish": "Main Assam se hoon.",
+        "english": "I am from Assam.",
+        "pronounce": "aai am from Assam."
+      },
+      {
+        "hinglish": "Maine graduation kiya hai.",
+        "english": "I have completed my graduation.",
+        "pronounce": "aai hav kom-plee-ted mai gra-dyu-ei-shun."
+      },
+      {
+        "hinglish": "Mujhe English seekhna pasand hai.",
+        "english": "I like learning English.",
+        "pronounce": "aai laik ler-ning Ing-lish."
+      },
+      {
+        "hinglish": "Main mehnati hoon.",
+        "english": "I am a hardworking person.",
+        "pronounce": "aai am a haard-wur-king per-sun."
+      },
+      {
+        "hinglish": "Mujhe naye logon se milna pasand hai.",
+        "english": "I like meeting new people.",
+        "pronounce": "aai laik mee-ting nyoo pee-pul."
+      },
+      {
+        "hinglish": "Main is job ke liye ready hoon.",
+        "english": "I am ready for this job.",
+        "pronounce": "aai am red-ee for dis job."
+      },
+      {
+        "hinglish": "Dhanyavad, mujhe mauka dene ke liye.",
+        "english": "Thank you for giving me this opportunity.",
+        "pronounce": "thenk yoo for giv-ing mee dis op-por-tyoo-ni-tee."
+      }
+    ]
+  },
+  {
+    "id": "lesson-14",
+    "title": "Interview — Strengths & Why This Job?",
+    "category": "Interview",
+    "level": "Intermediate",
+    "intro": "Apni strength aur job kyun chahiye — confidently bolo.",
+    "tip": "Tip: Ek strength bolo, phir uska ek example do.",
+    "isPro": true,
+    "phrases": [
+      {
+        "hinglish": "Meri strength hai mehnat.",
+        "english": "My strength is hard work.",
+        "pronounce": "mai strength iz haard wurk."
+      },
+      {
+        "hinglish": "Main jaldi seekhta hoon.",
+        "english": "I learn quickly.",
+        "pronounce": "aai lern kwik-lee."
+      },
+      {
+        "hinglish": "Main team me accha kaam karta hoon.",
+        "english": "I work well in a team.",
+        "pronounce": "aai wurk wel in a teem."
+      },
+      {
+        "hinglish": "Mujhe ye job isliye chahiye kyunki main seekhna chahta hoon.",
+        "english": "I want this job because I want to learn.",
+        "pronounce": "aai wont dis job bi-koz aai wont too lern."
+      },
+      {
+        "hinglish": "Main is company me kaam karna chahta hoon.",
+        "english": "I want to work in this company.",
+        "pronounce": "aai wont too wurk in dis kum-pa-nee."
+      },
+      {
+        "hinglish": "Meri kamzori hai ki main kabhi-kabhi zyada sochta hoon.",
+        "english": "My weakness is that I sometimes overthink.",
+        "pronounce": "mai week-ness iz dat aai sum-taims o-ver-think."
+      },
+      {
+        "hinglish": "Main is par kaam kar raha hoon.",
+        "english": "I am working on it.",
+        "pronounce": "aai am wur-king on it."
+      },
+      {
+        "hinglish": "Kya main ek sawal pooch sakta hoon?",
+        "english": "May I ask a question?",
+        "pronounce": "mei aai aask a kwes-chun?"
+      }
+    ]
+  },
+  {
+    "id": "lesson-15",
+    "title": "Speaking in a Meeting",
+    "category": "Work",
+    "level": "Intermediate",
+    "intro": "Meeting me bolna — idea dena, agree karna.",
+    "tip": "Tip: 'I think...' se apna idea shuru karo.",
+    "isPro": true,
+    "phrases": [
+      {
+        "hinglish": "Mujhe lagta hai ye idea accha hai.",
+        "english": "I think this is a good idea.",
+        "pronounce": "aai think dis iz a gud ai-dee-a."
+      },
+      {
+        "hinglish": "Main aapse sehmat hoon.",
+        "english": "I agree with you.",
+        "pronounce": "aai a-gree with yoo."
+      },
+      {
+        "hinglish": "Mujhe is par ek sawal hai.",
+        "english": "I have a question about this.",
+        "pronounce": "aai hav a kwes-chun a-baut dis."
+      },
+      {
+        "hinglish": "Kya hum is par baad me baat kar sakte hain?",
+        "english": "Can we discuss this later?",
+        "pronounce": "kan wee dis-kus dis lei-ter?"
+      },
+      {
+        "hinglish": "Mera suggestion hai ki hum kal shuru karein.",
+        "english": "My suggestion is that we start tomorrow.",
+        "pronounce": "mai su-jes-chun iz dat wee staart to-mor-ro."
+      },
+      {
+        "hinglish": "Ye kaam kal tak ho jayega.",
+        "english": "This work will be done by tomorrow.",
+        "pronounce": "dis wurk wil bee dun bai to-mor-ro."
+      },
+      {
+        "hinglish": "Dhanyavad, sabko.",
+        "english": "Thank you, everyone.",
+        "pronounce": "thenk yoo, ev-ree-wun."
+      },
+      {
+        "hinglish": "Meeting khatm ho gayi.",
+        "english": "The meeting is over.",
+        "pronounce": "da mee-ting iz o-ver."
+      }
+    ]
+  },
+  {
+    "id": "lesson-16",
+    "title": "Small Talk — Weather, Cricket, News",
+    "category": "Daily Life",
+    "level": "Intermediate",
+    "intro": "Chhoti baat-cheet — mausam, cricket, khabar.",
+    "tip": "Tip: Small talk se dosti aur confidence dono badhta hai.",
+    "isPro": true,
+    "phrases": [
+      {
+        "hinglish": "Aaj mausam accha hai.",
+        "english": "The weather is nice today.",
+        "pronounce": "da we-dhar iz nais to-dei."
+      },
+      {
+        "hinglish": "Baarish ho rahi hai.",
+        "english": "It is raining.",
+        "pronounce": "it iz rei-ning."
+      },
+      {
+        "hinglish": "Kal match kaisa tha?",
+        "english": "How was the match yesterday?",
+        "pronounce": "hau woz da match yes-ter-dei?"
+      },
+      {
+        "hinglish": "India jeet gaya!",
+        "english": "India won!",
+        "pronounce": "In-dee-a won!"
+      },
+      {
+        "hinglish": "Tumne khabar dekhi?",
+        "english": "Did you see the news?",
+        "pronounce": "did yoo see da nyooz?"
+      },
+      {
+        "hinglish": "Mujhe cricket pasand hai.",
+        "english": "I like cricket.",
+        "pronounce": "aai laik krik-it."
+      },
+      {
+        "hinglish": "Chalo, ek chai peete hain.",
+        "english": "Let's have a cup of tea.",
+        "pronounce": "lets hav a kup ov tee."
+      },
+      {
+        "hinglish": "Phir milte hain, dost.",
+        "english": "See you again, friend.",
+        "pronounce": "see yoo a-gen, frend."
+      }
+    ]
+  },
+  {
+    "id": "lesson-17",
+    "title": "Apologising & Thanking",
+    "category": "Basics",
+    "level": "Beginner",
+    "intro": "Sorry aur thank you — polite English ki jaan.",
+    "tip": "Tip: 'I am sorry' + reason — jaise 'I am sorry, I am late.'",
+    "isPro": true,
+    "phrases": [
+      {
+        "hinglish": "Mujhe maaf kijiye.",
+        "english": "I am sorry.",
+        "pronounce": "aai am sor-ee."
+      },
+      {
+        "hinglish": "Mujhe der ho gayi, maaf kijiye.",
+        "english": "I am sorry, I am late.",
+        "pronounce": "aai am sor-ee, aai am leit."
+      },
+      {
+        "hinglish": "Koi baat nahi.",
+        "english": "It is okay. / No problem.",
+        "pronounce": "it iz o-kei. / no prob-lem."
+      },
+      {
+        "hinglish": "Aapka bahut dhanyavad.",
+        "english": "Thank you very much.",
+        "pronounce": "thenk yoo ve-ree much."
+      },
+      {
+        "hinglish": "Aapki madad ke liye shukriya.",
+        "english": "Thanks for your help.",
+        "pronounce": "thanks for yor help."
+      },
+      {
+        "hinglish": "Koi baat nahi, ye meri khushi hai.",
+        "english": "You are welcome.",
+        "pronounce": "yoo aar wel-kum."
+      },
+      {
+        "hinglish": "Mujhe galti ho gayi.",
+        "english": "I made a mistake.",
+        "pronounce": "aai meid a mis-teik."
+      },
+      {
+        "hinglish": "Main dhyaan rakhunga.",
+        "english": "I will be careful.",
+        "pronounce": "aai wil bee kair-ful."
+      }
+    ]
+  },
+  {
+    "id": "lesson-18",
+    "title": "Making Plans",
+    "category": "Daily Life",
+    "level": "Intermediate",
+    "intro": "Plan banana — weekend, milna, ghumna.",
+    "tip": "Tip: 'Shall we...?' se plan pucho — 'Shall we go tomorrow?'",
+    "isPro": true,
+    "phrases": [
+      {
+        "hinglish": "Kal hum kya karein?",
+        "english": "What shall we do tomorrow?",
+        "pronounce": "wot shal wee doo to-mor-ro?"
+      },
+      {
+        "hinglish": "Chalo, film dekhte hain.",
+        "english": "Let's watch a movie.",
+        "pronounce": "lets woch a moo-vee."
+      },
+      {
+        "hinglish": "Weekend par hum ghumne jayenge.",
+        "english": "We will go out on the weekend.",
+        "pronounce": "wee wil go aut on da week-end."
+      },
+      {
+        "hinglish": "Tum free ho kal shaam ko?",
+        "english": "Are you free tomorrow evening?",
+        "pronounce": "aar yoo free to-mor-ro eev-ning?"
+      },
+      {
+        "hinglish": "Theek hai, kal 5 baje milte hain.",
+        "english": "Okay, let's meet tomorrow at 5.",
+        "pronounce": "o-kei, lets meet to-mor-ro at faiv."
+      },
+      {
+        "hinglish": "Mujhe ye plan pasand hai.",
+        "english": "I like this plan.",
+        "pronounce": "aai laik dis plan."
+      },
+      {
+        "hinglish": "Hum kal baat karenge.",
+        "english": "We will talk tomorrow.",
+        "pronounce": "wee wil tok to-mor-ro."
+      },
+      {
+        "hinglish": "Plan pakka hai!",
+        "english": "The plan is fixed!",
+        "pronounce": "da plan iz fikst!"
+      }
+    ]
+  },
+  {
+    "id": "lesson-19",
+    "title": "Shopping Online / Delivery",
+    "category": "Daily Life",
+    "level": "Intermediate",
+    "intro": "Online order, delivery, return — English me.",
+    "tip": "Tip: 'Where is my order?' — delivery ke liye ye line kaafi hai.",
+    "isPro": true,
+    "phrases": [
+      {
+        "hinglish": "Mera order kahan hai?",
+        "english": "Where is my order?",
+        "pronounce": "wair iz mai or-der?"
+      },
+      {
+        "hinglish": "Maine kal order kiya tha.",
+        "english": "I ordered it yesterday.",
+        "pronounce": "aai or-derd it yes-ter-dei."
+      },
+      {
+        "hinglish": "Delivery kab hogi?",
+        "english": "When will it be delivered?",
+        "pronounce": "wen wil it bee de-liv-erd?"
+      },
+      {
+        "hinglish": "Mujhe ye wapas karna hai.",
+        "english": "I want to return this.",
+        "pronounce": "aai wont too re-tern dis."
+      },
+      {
+        "hinglish": "Ye size chhota hai.",
+        "english": "This size is small.",
+        "pronounce": "dis saiz iz smol."
+      },
+      {
+        "hinglish": "Mujhe bada size chahiye.",
+        "english": "I want a bigger size.",
+        "pronounce": "aai wont a big-ger saiz."
+      },
+      {
+        "hinglish": "Paise wapas kab milenge?",
+        "english": "When will I get my refund?",
+        "pronounce": "wen wil aai get mai re-fund?"
+      },
+      {
+        "hinglish": "Dhanyavad, delivery ke liye.",
+        "english": "Thank you for the delivery.",
+        "pronounce": "thenk yoo for da de-liv-ree."
+      }
+    ]
+  },
+  {
+    "id": "lesson-20",
+    "title": "Confidence — Speak Without Fear",
+    "category": "Mindset",
+    "level": "Beginner",
+    "intro": "Galti se daro mat — bolna hi seekhna hai.",
+    "tip": "Tip: Roz 5 minute zor se bolo — akele bhi, awaaz me. Dar kam hoga.",
+    "isPro": true,
+    "phrases": [
+      {
+        "hinglish": "Main English bol sakta hoon.",
+        "english": "I can speak English.",
+        "pronounce": "aai kan speek Ing-lish."
+      },
+      {
+        "hinglish": "Galti hona normal hai.",
+        "english": "Making mistakes is normal.",
+        "pronounce": "mei-king mis-teiks iz nor-mul."
+      },
+      {
+        "hinglish": "Main roz practice karta hoon.",
+        "english": "I practise every day.",
+        "pronounce": "aai prak-tis ev-ree dei."
+      },
+      {
+        "hinglish": "Main darta nahi hoon.",
+        "english": "I am not afraid.",
+        "pronounce": "aai am not a-freid."
+      },
+      {
+        "hinglish": "Main seekh raha hoon, aur behtar hounga.",
+        "english": "I am learning, and I will get better.",
+        "pronounce": "aai am ler-ning, and aai wil get bet-ter."
+      },
+      {
+        "hinglish": "Mujhe apne aap par bharosa hai.",
+        "english": "I believe in myself.",
+        "pronounce": "aai be-leev in mai-self."
+      },
+      {
+        "hinglish": "Aaj main 5 naye sentences bolunga.",
+        "english": "Today I will speak 5 new sentences.",
+        "pronounce": "to-dei aai wil speek faiv nyoo sen-ten-ses."
+      },
+      {
+        "hinglish": "English meri strength banegi.",
+        "english": "English will become my strength.",
+        "pronounce": "Ing-lish wil bi-kum mai strength."
+      }
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "drill-01",
+    "topic": "Introduce yourself in 30 seconds",
+    "prompt": "Apna naam, jagah, aur ek hobby — 30 second me bolo. Ruko mat, galti ho to bhi continue karo.",
+    "hints": [
+      "My name is...",
+      "I am from...",
+      "I like..."
+    ]
+  },
+  {
+    "id": "drill-02",
+    "topic": "Talk about your day",
+    "prompt": "Aaj tumne kya kiya — subah se ab tak, English me bolo.",
+    "hints": [
+      "I woke up at...",
+      "I went to...",
+      "I ate..."
+    ]
+  },
+  {
+    "id": "drill-03",
+    "topic": "Describe your best friend",
+    "prompt": "Tumhara best friend kaisa hai? 5 lines me bolo.",
+    "hints": [
+      "My best friend is...",
+      "He / She likes...",
+      "We meet..."
+    ]
+  },
+  {
+    "id": "drill-04",
+    "topic": "Talk about Guwahati",
+    "prompt": "Guwahati ke baare me 5 lines bolo — kya famous hai?",
+    "hints": [
+      "Guwahati is...",
+      "The Brahmaputra...",
+      "People like..."
+    ]
+  },
+  {
+    "id": "drill-05",
+    "topic": "Your favourite food",
+    "prompt": "Tumhara favourite khana kya hai, aur kyun?",
+    "hints": [
+      "My favourite food is...",
+      "I like it because...",
+      "My mother cooks..."
+    ]
+  },
+  {
+    "id": "drill-06",
+    "topic": "Your dream job",
+    "prompt": "Tum bade hoke kya banna chahte ho? Kyun?",
+    "hints": [
+      "I want to become...",
+      "Because...",
+      "I will work hard..."
+    ]
+  },
+  {
+    "id": "drill-07",
+    "topic": "A movie you liked",
+    "prompt": "Ek film ke baare me bolo — story kya thi?",
+    "hints": [
+      "The movie was...",
+      "I liked it because...",
+      "My favourite scene..."
+    ]
+  },
+  {
+    "id": "drill-08",
+    "topic": "Your daily routine",
+    "prompt": "Roz ka routine 1 minute me bolo.",
+    "hints": [
+      "I wake up...",
+      "Then I...",
+      "At night I..."
+    ]
+  },
+  {
+    "id": "drill-09",
+    "topic": "Ask for directions (role play)",
+    "prompt": "Imagine tum naye sheher me ho. Rasta pucho, English me.",
+    "hints": [
+      "Excuse me...",
+      "Where is...?",
+      "Thank you..."
+    ]
+  },
+  {
+    "id": "drill-10",
+    "topic": "Order food in English",
+    "prompt": "Restaurant me order karo — khana, drink, bill.",
+    "hints": [
+      "I would like...",
+      "Please bring...",
+      "The bill, please."
+    ]
+  },
+  {
+    "id": "drill-11",
+    "topic": "Talk about your family",
+    "prompt": "Apne parivar ke baare me 5 lines bolo.",
+    "hints": [
+      "There are... people in my family.",
+      "My father is...",
+      "We eat together..."
+    ]
+  },
+  {
+    "id": "drill-12",
+    "topic": "Your hobby",
+    "prompt": "Tumhari hobby kya hai? Uske baare me bolo.",
+    "hints": [
+      "My hobby is...",
+      "I do it every...",
+      "It makes me..."
+    ]
+  },
+  {
+    "id": "drill-13",
+    "topic": "Describe your phone",
+    "prompt": "Apna phone describe karo — colour, use, favourite app.",
+    "hints": [
+      "My phone is...",
+      "I use it for...",
+      "My favourite app is..."
+    ]
+  },
+  {
+    "id": "drill-14",
+    "topic": "Talk about the weather",
+    "prompt": "Aaj ka mausam kaisa hai? Kal kaisa tha?",
+    "hints": [
+      "Today the weather is...",
+      "Yesterday it was...",
+      "I like... weather."
+    ]
+  },
+  {
+    "id": "drill-15",
+    "topic": "Your school / college",
+    "prompt": "Apne college ke baare me bolo.",
+    "hints": [
+      "My college is in...",
+      "My favourite teacher is...",
+      "I study..."
+    ]
+  },
+  {
+    "id": "drill-16",
+    "topic": "A phone call (role play)",
+    "prompt": "Dost ko phone karo — plan banao milne ka.",
+    "hints": [
+      "Hello, this is...",
+      "Are you free tomorrow?",
+      "Let's meet at..."
+    ]
+  },
+  {
+    "id": "drill-17",
+    "topic": "Interview practice",
+    "prompt": "'Tell me about yourself' ka jawab 30 second me do.",
+    "hints": [
+      "My name is...",
+      "I am from...",
+      "I am hardworking..."
+    ]
+  },
+  {
+    "id": "drill-18",
+    "topic": "Talk about a festival",
+    "prompt": "Bihu ke baare me English me bolo.",
+    "hints": [
+      "Bihu is a festival of Assam.",
+      "We celebrate it in...",
+      "People dance and..."
+    ]
+  },
+  {
+    "id": "drill-19",
+    "topic": "Shopping — buy a shirt",
+    "prompt": "Dukaan me shirt kharidne ki baat-cheet karo.",
+    "hints": [
+      "How much is this shirt?",
+      "I want a bigger size.",
+      "I will take this."
+    ]
+  },
+  {
+    "id": "drill-20",
+    "topic": "Your goal for this month",
+    "prompt": "Is mahine ka tumhara goal kya hai?",
+    "hints": [
+      "My goal is...",
+      "I will practise every day.",
+      "By the end of the month, I will..."
+    ]
+  }
+]

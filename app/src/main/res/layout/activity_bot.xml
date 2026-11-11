@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" android:padding="18dp">
+  <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="AI Voice Bot 🤖" android:textSize="24sp" android:textStyle="bold" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Bot bolega, tum bolo — voice ya type karke. Bot tumhari English check karega aur aage badhayega." android:layout_marginTop="6dp" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Scenario chuno:" android:textStyle="bold" android:layout_marginTop="14dp" />
+    <Spinner android:id="@+id/spScenario" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="6dp" />
+    <Button android:id="@+id/btnStartBot" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="▶️ Start Conversation" android:layout_marginTop="10dp" />
+    <TextView android:id="@+id/tvBotHint" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Hint: —" android:layout_marginTop="12dp" android:textStyle="italic" />
+    <TextView android:id="@+id/tvChat" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Bot: Hello! Choose a scenario and press Start." android:layout_marginTop="10dp" android:minHeight="200dp" />
+    <Button android:id="@+id/btnSpeak" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="🎤 Speak — Mic se bolo" android:layout_marginTop="14dp" />
+    <Button android:id="@+id/btnHearAgain" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="🔊 Bot ko phir se suno" android:layout_marginTop="8dp" />
+    <EditText android:id="@+id/etTyped" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Ya yahan type karo — English me jawab likho" android:layout_marginTop="10dp" />
+    <Button android:id="@+id/btnSendText" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="➡️ Send" android:layout_marginTop="8dp" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Voice free hai — Android ka SpeechRecognizer + TextToSpeech use hota hai. Mic permission pehli baar mangi jayegi." android:textSize="12sp" android:layout_marginTop="14dp" />
+  </LinearLayout>
+</ScrollView>

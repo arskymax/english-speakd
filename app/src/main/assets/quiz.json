@@ -1,0 +1,602 @@
+[
+  {
+    "id": "quiz-01",
+    "question": "Mera naam DEMi hai.",
+    "options": [
+      "My name is DEMi.",
+      "My name am DEMi.",
+      "My name be DEMi.",
+      "My name are DEMi."
+    ],
+    "answer": 0,
+    "explanation": "'My name is DEMi' is correct."
+  },
+  {
+    "id": "quiz-02",
+    "question": "Main Assam se hoon.",
+    "options": [
+      "I is from Assam.",
+      "I are from Assam.",
+      "I am from Assam.",
+      "I from Assam."
+    ],
+    "answer": 2,
+    "explanation": "'I am from Assam' is correct."
+  },
+  {
+    "id": "quiz-03",
+    "question": "Wo ek teacher hai.",
+    "options": [
+      "He is a teacher.",
+      "He are a teacher.",
+      "He am a teacher.",
+      "He is teacher."
+    ],
+    "answer": 0,
+    "explanation": "'He is a teacher' is correct."
+  },
+  {
+    "id": "quiz-04",
+    "question": "Main roz padhta hoon.",
+    "options": [
+      "I studies every day.",
+      "I studying every day.",
+      "I study every day.",
+      "I study everyday."
+    ],
+    "answer": 2,
+    "explanation": "'I study every day' is correct."
+  },
+  {
+    "id": "quiz-05",
+    "question": "Tum kahan ja rahe ho?",
+    "options": [
+      "Where are you going?",
+      "Where are you go?",
+      "Where you are going?",
+      "Where you going?"
+    ],
+    "answer": 0,
+    "explanation": "'Where are you going?' is correct."
+  },
+  {
+    "id": "quiz-06",
+    "question": "Ye kitne ka hai?",
+    "options": [
+      "How many is this?",
+      "How price is this?",
+      "How much is this?",
+      "How much are this?"
+    ],
+    "answer": 2,
+    "explanation": "'How much is this?' is correct."
+  },
+  {
+    "id": "quiz-07",
+    "question": "Mujhe paani chahiye.",
+    "options": [
+      "I needs water.",
+      "I need waters.",
+      "I needing water.",
+      "I need water."
+    ],
+    "answer": 3,
+    "explanation": "'I need water' is correct."
+  },
+  {
+    "id": "quiz-08",
+    "question": "Kal exam hai.",
+    "options": [
+      "Tomorrow is exam.",
+      "Tomorrow is the exam.",
+      "Tomorrow are the exam.",
+      "Tomorrow exam is."
+    ],
+    "answer": 1,
+    "explanation": "'Tomorrow is the exam' is correct."
+  },
+  {
+    "id": "quiz-09",
+    "question": "Wo kal aaya tha.",
+    "options": [
+      "He comes yesterday.",
+      "He coming yesterday.",
+      "He came yesterday.",
+      "He come yesterday."
+    ],
+    "answer": 2,
+    "explanation": "Past tense: 'He came yesterday.'"
+  },
+  {
+    "id": "quiz-10",
+    "question": "Main English seekh raha hoon.",
+    "options": [
+      "I learns English.",
+      "I am learning English.",
+      "I am learn English.",
+      "I learning English."
+    ],
+    "answer": 1,
+    "explanation": "'I am learning English' is correct."
+  },
+  {
+    "id": "quiz-11",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "She gone to school.",
+      "She go to school.",
+      "She goes to school.",
+      "She going to school."
+    ],
+    "answer": 2,
+    "explanation": "'She goes to school' is correct."
+  },
+  {
+    "id": "quiz-12",
+    "question": "Plural of 'child' is:",
+    "options": [
+      "childes",
+      "childrens",
+      "childs",
+      "children"
+    ],
+    "answer": 3,
+    "explanation": "Child → Children."
+  },
+  {
+    "id": "quiz-13",
+    "question": "Past tense of 'go' is:",
+    "options": [
+      "gone",
+      "goed",
+      "went",
+      "going"
+    ],
+    "answer": 2,
+    "explanation": "Go → Went."
+  },
+  {
+    "id": "quiz-14",
+    "question": "Synonym of 'happy' is:",
+    "options": [
+      "angry",
+      "joyful",
+      "tired",
+      "sad"
+    ],
+    "answer": 1,
+    "explanation": "Happy = Joyful."
+  },
+  {
+    "id": "quiz-15",
+    "question": "Antonym of 'hot' is:",
+    "options": [
+      "spicy",
+      "boiling",
+      "cold",
+      "warm"
+    ],
+    "answer": 2,
+    "explanation": "Hot ≠ Cold."
+  },
+  {
+    "id": "quiz-16",
+    "question": "He ___ to school daily.",
+    "options": [
+      "go",
+      "goes",
+      "gone",
+      "going"
+    ],
+    "answer": 1,
+    "explanation": "'He goes' — third person singular."
+  },
+  {
+    "id": "quiz-17",
+    "question": "They ___ playing now.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": 2,
+    "explanation": "'They are playing' is correct."
+  },
+  {
+    "id": "quiz-18",
+    "question": "I have lived here ___ 2015.",
+    "options": [
+      "for",
+      "since",
+      "from",
+      "at"
+    ],
+    "answer": 1,
+    "explanation": "'Since 2015' — point in time."
+  },
+  {
+    "id": "quiz-19",
+    "question": "___ honest man.",
+    "options": [
+      "The",
+      "No article",
+      "An",
+      "A"
+    ],
+    "answer": 2,
+    "explanation": "'An honest man' — vowel sound."
+  },
+  {
+    "id": "quiz-20",
+    "question": "One who writes books is a/an:",
+    "options": [
+      "singer",
+      "author",
+      "farmer",
+      "painter"
+    ],
+    "answer": 1,
+    "explanation": "An author writes books."
+  },
+  {
+    "id": "quiz-21",
+    "question": "Mujhe madad chahiye.",
+    "options": [
+      "I need helps.",
+      "I need help.",
+      "I needing help.",
+      "I needs help."
+    ],
+    "answer": 1,
+    "explanation": "'I need help' is correct."
+  },
+  {
+    "id": "quiz-22",
+    "question": "Aapka naam kya hai?",
+    "options": [
+      "What is your name?",
+      "What is you name?",
+      "What name is yours?",
+      "What your name?"
+    ],
+    "answer": 0,
+    "explanation": "'What is your name?' is correct."
+  },
+  {
+    "id": "quiz-23",
+    "question": "Main kal aunga.",
+    "options": [
+      "I will come tomorrow.",
+      "I come tomorrow.",
+      "I will came tomorrow.",
+      "I coming tomorrow."
+    ],
+    "answer": 0,
+    "explanation": "'I will come tomorrow' is correct."
+  },
+  {
+    "id": "quiz-24",
+    "question": "Wo mera dost hai.",
+    "options": [
+      "He my friend.",
+      "He is my friends.",
+      "He are my friend.",
+      "He is my friend."
+    ],
+    "answer": 3,
+    "explanation": "'He is my friend' is correct."
+  },
+  {
+    "id": "quiz-25",
+    "question": "Khana tasty hai.",
+    "options": [
+      "Food is tasty.",
+      "The food is taste.",
+      "The food is tasty.",
+      "The food are tasty."
+    ],
+    "answer": 2,
+    "explanation": "'The food is tasty' is correct."
+  },
+  {
+    "id": "quiz-26",
+    "question": "Mujhe ek chai chahiye.",
+    "options": [
+      "I want cup tea.",
+      "I wants a cup of tea.",
+      "I want a tea.",
+      "I want a cup of tea."
+    ],
+    "answer": 3,
+    "explanation": "'I want a cup of tea' is correct."
+  },
+  {
+    "id": "quiz-27",
+    "question": "Train kab aayegi?",
+    "options": [
+      "When train will come?",
+      "When will train come?",
+      "When the train will come?",
+      "When will the train come?"
+    ],
+    "answer": 3,
+    "explanation": "'When will the train come?' is correct."
+  },
+  {
+    "id": "quiz-28",
+    "question": "Maine kaam pura kar liya.",
+    "options": [
+      "I have finished the work.",
+      "I has finished the work.",
+      "I have finish the work.",
+      "I finished the works."
+    ],
+    "answer": 0,
+    "explanation": "'I have finished the work' is correct."
+  },
+  {
+    "id": "quiz-29",
+    "question": "Wo bahut accha hai.",
+    "options": [
+      "He are very good.",
+      "He is very good.",
+      "He very good.",
+      "He is very goods."
+    ],
+    "answer": 1,
+    "explanation": "'He is very good' is correct."
+  },
+  {
+    "id": "quiz-30",
+    "question": "Tum free ho?",
+    "options": [
+      "Are you frees?",
+      "Do you free?",
+      "You are free?",
+      "Are you free?"
+    ],
+    "answer": 3,
+    "explanation": "'Are you free?' is correct."
+  },
+  {
+    "id": "quiz-31",
+    "question": "Mujhe der ho gayi.",
+    "options": [
+      "I late.",
+      "I are late.",
+      "I am lately.",
+      "I am late."
+    ],
+    "answer": 3,
+    "explanation": "'I am late' is correct."
+  },
+  {
+    "id": "quiz-32",
+    "question": "Kya aap meri madad kar sakte hain?",
+    "options": [
+      "Can you help me?",
+      "Can you helps me?",
+      "You can help me?",
+      "Can you help I?"
+    ],
+    "answer": 0,
+    "explanation": "'Can you help me?' is correct."
+  },
+  {
+    "id": "quiz-33",
+    "question": "Ye mera ghar hai.",
+    "options": [
+      "This is my home.",
+      "This my home.",
+      "This is my homes.",
+      "This are my home."
+    ],
+    "answer": 0,
+    "explanation": "'This is my home' is correct."
+  },
+  {
+    "id": "quiz-34",
+    "question": "Main Guwahati me rehta hoon.",
+    "options": [
+      "I lives in Guwahati.",
+      "I live at Guwahati.",
+      "I living in Guwahati.",
+      "I live in Guwahati."
+    ],
+    "answer": 3,
+    "explanation": "'I live in Guwahati' is correct."
+  },
+  {
+    "id": "quiz-35",
+    "question": "Usne mujhe call kiya.",
+    "options": [
+      "He calls me yesterday.",
+      "He call me.",
+      "He called me.",
+      "He calling me."
+    ],
+    "answer": 2,
+    "explanation": "'He called me' is correct."
+  },
+  {
+    "id": "quiz-36",
+    "question": "Mujhe ye pasand hai.",
+    "options": [
+      "I likes this.",
+      "I like this.",
+      "I liking this.",
+      "I like these."
+    ],
+    "answer": 1,
+    "explanation": "'I like this' is correct."
+  },
+  {
+    "id": "quiz-37",
+    "question": "Aaj mausam accha hai.",
+    "options": [
+      "The weather is nicely today.",
+      "Weather is nice today.",
+      "The weather are nice today.",
+      "The weather is nice today."
+    ],
+    "answer": 3,
+    "explanation": "'The weather is nice today' is correct."
+  },
+  {
+    "id": "quiz-38",
+    "question": "Hum kal milenge.",
+    "options": [
+      "We will met tomorrow.",
+      "We meet tomorrow.",
+      "We meeting tomorrow.",
+      "We will meet tomorrow."
+    ],
+    "answer": 3,
+    "explanation": "'We will meet tomorrow' is correct."
+  },
+  {
+    "id": "quiz-39",
+    "question": "Mujhe ek sawal puchna hai.",
+    "options": [
+      "I want to asking a question.",
+      "I wants to ask a question.",
+      "I want to ask a question.",
+      "I want ask a question."
+    ],
+    "answer": 2,
+    "explanation": "'I want to ask a question' is correct."
+  },
+  {
+    "id": "quiz-40",
+    "question": "Maine use dekha.",
+    "options": [
+      "I see him yesterday.",
+      "I seeing him.",
+      "I saw him.",
+      "I seen him."
+    ],
+    "answer": 2,
+    "explanation": "'I saw him' is correct."
+  },
+  {
+    "id": "quiz-41",
+    "question": "Wo school ja raha hai.",
+    "options": [
+      "He is go to school.",
+      "He going to school.",
+      "He is going to school.",
+      "He goes to school now."
+    ],
+    "answer": 2,
+    "explanation": "'He is going to school' is correct."
+  },
+  {
+    "id": "quiz-42",
+    "question": "Mujhe bhookh lagi hai.",
+    "options": [
+      "I hungry.",
+      "I am hunger.",
+      "I am hungry.",
+      "I are hungry."
+    ],
+    "answer": 2,
+    "explanation": "'I am hungry' is correct."
+  },
+  {
+    "id": "quiz-43",
+    "question": "Paani thanda hai.",
+    "options": [
+      "The water is cold.",
+      "The water is coldy.",
+      "The water are cold.",
+      "Water is cold."
+    ],
+    "answer": 0,
+    "explanation": "'The water is cold' is correct."
+  },
+  {
+    "id": "quiz-44",
+    "question": "Main khush hoon.",
+    "options": [
+      "I am happy.",
+      "I happy.",
+      "I am happily.",
+      "I are happy."
+    ],
+    "answer": 0,
+    "explanation": "'I am happy' is correct."
+  },
+  {
+    "id": "quiz-45",
+    "question": "Ye mera doston ka group hai.",
+    "options": [
+      "This is my friend group.",
+      "This is my friends group.",
+      "This are my group.",
+      "This is my group of friends."
+    ],
+    "answer": 3,
+    "explanation": "'This is my group of friends' is correct."
+  },
+  {
+    "id": "quiz-46",
+    "question": "Mujhe English bolni hai.",
+    "options": [
+      "I want to speak English.",
+      "I want speak English.",
+      "I wants to speak English.",
+      "I want to speaking English."
+    ],
+    "answer": 0,
+    "explanation": "'I want to speak English' is correct."
+  },
+  {
+    "id": "quiz-47",
+    "question": "Main roz practice karta hoon.",
+    "options": [
+      "I practising every day.",
+      "I practises every day.",
+      "I practice everyday.",
+      "I practise every day."
+    ],
+    "answer": 3,
+    "explanation": "'I practise every day' is correct."
+  },
+  {
+    "id": "quiz-48",
+    "question": "Galti hona normal hai.",
+    "options": [
+      "Mistakes making is normal.",
+      "Making mistakes is normal.",
+      "Make mistakes is normal.",
+      "Making mistake are normal."
+    ],
+    "answer": 1,
+    "explanation": "'Making mistakes is normal' is correct."
+  },
+  {
+    "id": "quiz-49",
+    "question": "Main darta nahi hoon.",
+    "options": [
+      "I not afraid.",
+      "I am not fear.",
+      "I am not afraid.",
+      "I am no afraid."
+    ],
+    "answer": 2,
+    "explanation": "'I am not afraid' is correct."
+  },
+  {
+    "id": "quiz-50",
+    "question": "Aaj main 5 sentences bolunga.",
+    "options": [
+      "Today I will speak 5 sentences.",
+      "Today I speak 5 sentences.",
+      "Today I speaking 5 sentences.",
+      "Today I will spoke 5 sentences."
+    ],
+    "answer": 0,
+    "explanation": "'Today I will speak 5 sentences' is correct."
+  }
+]

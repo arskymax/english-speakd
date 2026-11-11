@@ -1,0 +1,512 @@
+[
+  {
+    "id": "sent-01",
+    "hinglish": "Mujhe ek glass paani chahiye.",
+    "english": "I want a glass of water."
+  },
+  {
+    "id": "sent-02",
+    "hinglish": "Main kal Guwahati ja raha hoon.",
+    "english": "I am going to Guwahati tomorrow."
+  },
+  {
+    "id": "sent-03",
+    "hinglish": "Tum kya kar rahe ho?",
+    "english": "What are you doing?"
+  },
+  {
+    "id": "sent-04",
+    "hinglish": "Mujhe tumse baat karni hai.",
+    "english": "I want to talk to you."
+  },
+  {
+    "id": "sent-05",
+    "hinglish": "Ye mera pehla din hai.",
+    "english": "This is my first day."
+  },
+  {
+    "id": "sent-06",
+    "hinglish": "Main English seekh raha hoon.",
+    "english": "I am learning English."
+  },
+  {
+    "id": "sent-07",
+    "hinglish": "Kya tum meri madad karoge?",
+    "english": "Will you help me?"
+  },
+  {
+    "id": "sent-08",
+    "hinglish": "Mujhe ye samajh nahi aaya.",
+    "english": "I did not understand this."
+  },
+  {
+    "id": "sent-09",
+    "hinglish": "Kripya dheere boliye.",
+    "english": "Please speak slowly."
+  },
+  {
+    "id": "sent-10",
+    "hinglish": "Main theek hoon, dhanyavad.",
+    "english": "I am fine, thank you."
+  },
+  {
+    "id": "sent-11",
+    "hinglish": "Tumhara naam kya hai?",
+    "english": "What is your name?"
+  },
+  {
+    "id": "sent-12",
+    "hinglish": "Main Assam se hoon.",
+    "english": "I am from Assam."
+  },
+  {
+    "id": "sent-13",
+    "hinglish": "Mujhe khana khana hai.",
+    "english": "I want to eat food."
+  },
+  {
+    "id": "sent-14",
+    "hinglish": "Bus kab aayegi?",
+    "english": "When will the bus come?"
+  },
+  {
+    "id": "sent-15",
+    "hinglish": "Ye kitne ka hai?",
+    "english": "How much is this?"
+  },
+  {
+    "id": "sent-16",
+    "hinglish": "Mujhe ek ticket chahiye.",
+    "english": "I want a ticket."
+  },
+  {
+    "id": "sent-17",
+    "hinglish": "Main kal aunga.",
+    "english": "I will come tomorrow."
+  },
+  {
+    "id": "sent-18",
+    "hinglish": "Tum kahan rehte ho?",
+    "english": "Where do you live?"
+  },
+  {
+    "id": "sent-19",
+    "hinglish": "Mera phone kharab hai.",
+    "english": "My phone is not working."
+  },
+  {
+    "id": "sent-20",
+    "hinglish": "Mujhe doctor ko dikhana hai.",
+    "english": "I need to see a doctor."
+  },
+  {
+    "id": "sent-21",
+    "hinglish": "Aaj mausam bahut accha hai.",
+    "english": "The weather is very nice today."
+  },
+  {
+    "id": "sent-22",
+    "hinglish": "Main roz subah walk karta hoon.",
+    "english": "I walk every morning."
+  },
+  {
+    "id": "sent-23",
+    "hinglish": "Tumne khana khaya?",
+    "english": "Did you eat food?"
+  },
+  {
+    "id": "sent-24",
+    "hinglish": "Main abhi busy hoon.",
+    "english": "I am busy right now."
+  },
+  {
+    "id": "sent-25",
+    "hinglish": "Kya hum kal mil sakte hain?",
+    "english": "Can we meet tomorrow?"
+  },
+  {
+    "id": "sent-26",
+    "hinglish": "Mujhe ye kaam kal tak chahiye.",
+    "english": "I need this work by tomorrow."
+  },
+  {
+    "id": "sent-27",
+    "hinglish": "Please, meri baat suniye.",
+    "english": "Please listen to me."
+  },
+  {
+    "id": "sent-28",
+    "hinglish": "Main tumhara intezaar kar raha hoon.",
+    "english": "I am waiting for you."
+  },
+  {
+    "id": "sent-29",
+    "hinglish": "Ye jagah bahut sundar hai.",
+    "english": "This place is very beautiful."
+  },
+  {
+    "id": "sent-30",
+    "hinglish": "Mujhe naye kapde chahiye.",
+    "english": "I need new clothes."
+  },
+  {
+    "id": "sent-31",
+    "hinglish": "Main apne doston ke saath hoon.",
+    "english": "I am with my friends."
+  },
+  {
+    "id": "sent-32",
+    "hinglish": "Tum bahut acche ho.",
+    "english": "You are very good."
+  },
+  {
+    "id": "sent-33",
+    "hinglish": "Mujhe maaf karo.",
+    "english": "Please forgive me. / I am sorry."
+  },
+  {
+    "id": "sent-34",
+    "hinglish": "Koi baat nahi.",
+    "english": "No problem."
+  },
+  {
+    "id": "sent-35",
+    "hinglish": "Main tumhari madad karunga.",
+    "english": "I will help you."
+  },
+  {
+    "id": "sent-36",
+    "hinglish": "Ye mera sapna hai.",
+    "english": "This is my dream."
+  },
+  {
+    "id": "sent-37",
+    "hinglish": "Main mehnat kar raha hoon.",
+    "english": "I am working hard."
+  },
+  {
+    "id": "sent-38",
+    "hinglish": "Mujhe English bolni hai.",
+    "english": "I want to speak English."
+  },
+  {
+    "id": "sent-39",
+    "hinglish": "Tum kya soch rahe ho?",
+    "english": "What are you thinking?"
+  },
+  {
+    "id": "sent-40",
+    "hinglish": "Main thak gaya hoon.",
+    "english": "I am tired."
+  },
+  {
+    "id": "sent-41",
+    "hinglish": "Chalo, chalte hain.",
+    "english": "Let's go."
+  },
+  {
+    "id": "sent-42",
+    "hinglish": "Mujhe neend aa rahi hai.",
+    "english": "I am feeling sleepy."
+  },
+  {
+    "id": "sent-43",
+    "hinglish": "Subah ho gayi.",
+    "english": "It is morning now."
+  },
+  {
+    "id": "sent-44",
+    "hinglish": "Raat ho gayi.",
+    "english": "It is night now."
+  },
+  {
+    "id": "sent-45",
+    "hinglish": "Mujhe ek chai chahiye.",
+    "english": "I want a cup of tea."
+  },
+  {
+    "id": "sent-46",
+    "hinglish": "Tum kahan ja rahe ho?",
+    "english": "Where are you going?"
+  },
+  {
+    "id": "sent-47",
+    "hinglish": "Main ghar ja raha hoon.",
+    "english": "I am going home."
+  },
+  {
+    "id": "sent-48",
+    "hinglish": "Kya tumne homework kiya?",
+    "english": "Did you do your homework?"
+  },
+  {
+    "id": "sent-49",
+    "hinglish": "Mujhe ye kitaab chahiye.",
+    "english": "I need this book."
+  },
+  {
+    "id": "sent-50",
+    "hinglish": "Ye mera bag hai.",
+    "english": "This is my bag."
+  },
+  {
+    "id": "sent-51",
+    "hinglish": "Mujhe paise chahiye.",
+    "english": "I need money."
+  },
+  {
+    "id": "sent-52",
+    "hinglish": "Main kal exam dunga.",
+    "english": "I will give the exam tomorrow."
+  },
+  {
+    "id": "sent-53",
+    "hinglish": "Tumhara exam kaisa tha?",
+    "english": "How was your exam?"
+  },
+  {
+    "id": "sent-54",
+    "hinglish": "Main pass ho gaya!",
+    "english": "I passed!"
+  },
+  {
+    "id": "sent-55",
+    "hinglish": "Mujhe naukri chahiye.",
+    "english": "I need a job."
+  },
+  {
+    "id": "sent-56",
+    "hinglish": "Main interview ke liye ja raha hoon.",
+    "english": "I am going for an interview."
+  },
+  {
+    "id": "sent-57",
+    "hinglish": "Mujhe apna intro dena hai.",
+    "english": "I have to introduce myself."
+  },
+  {
+    "id": "sent-58",
+    "hinglish": "Kya aap English bolte hain?",
+    "english": "Do you speak English?"
+  },
+  {
+    "id": "sent-59",
+    "hinglish": "Main thoda-thoda English bolta hoon.",
+    "english": "I speak a little English."
+  },
+  {
+    "id": "sent-60",
+    "hinglish": "Mujhe practice karni hai.",
+    "english": "I need to practise."
+  },
+  {
+    "id": "sent-61",
+    "hinglish": "Roz practice karo.",
+    "english": "Practise every day."
+  },
+  {
+    "id": "sent-62",
+    "hinglish": "Galti se daro mat.",
+    "english": "Don't be afraid of mistakes."
+  },
+  {
+    "id": "sent-63",
+    "hinglish": "Tum kar sakte ho!",
+    "english": "You can do it!"
+  },
+  {
+    "id": "sent-64",
+    "hinglish": "Mujhe tum par bharosa hai.",
+    "english": "I believe in you."
+  },
+  {
+    "id": "sent-65",
+    "hinglish": "Ye bahut aasan hai.",
+    "english": "This is very easy."
+  },
+  {
+    "id": "sent-66",
+    "hinglish": "Ye thoda mushkil hai.",
+    "english": "This is a little difficult."
+  },
+  {
+    "id": "sent-67",
+    "hinglish": "Main samajh gaya.",
+    "english": "I understood."
+  },
+  {
+    "id": "sent-68",
+    "hinglish": "Phir se boliye, please.",
+    "english": "Please say it again."
+  },
+  {
+    "id": "sent-69",
+    "hinglish": "Mujhe ye pasand hai.",
+    "english": "I like this."
+  },
+  {
+    "id": "sent-70",
+    "hinglish": "Mujhe ye pasand nahi hai.",
+    "english": "I don't like this."
+  },
+  {
+    "id": "sent-71",
+    "hinglish": "Tumhara din kaisa tha?",
+    "english": "How was your day?"
+  },
+  {
+    "id": "sent-72",
+    "hinglish": "Mera din accha tha.",
+    "english": "My day was good."
+  },
+  {
+    "id": "sent-73",
+    "hinglish": "Main kal subah aunga.",
+    "english": "I will come tomorrow morning."
+  },
+  {
+    "id": "sent-74",
+    "hinglish": "Tum kab aaoge?",
+    "english": "When will you come?"
+  },
+  {
+    "id": "sent-75",
+    "hinglish": "Main 5 baje aaunga.",
+    "english": "I will come at 5 o'clock."
+  },
+  {
+    "id": "sent-76",
+    "hinglish": "Kya tum free ho?",
+    "english": "Are you free?"
+  },
+  {
+    "id": "sent-77",
+    "hinglish": "Haan, main free hoon.",
+    "english": "Yes, I am free."
+  },
+  {
+    "id": "sent-78",
+    "hinglish": "Nahi, main busy hoon.",
+    "english": "No, I am busy."
+  },
+  {
+    "id": "sent-79",
+    "hinglish": "Chalo, milte hain.",
+    "english": "Let's meet."
+  },
+  {
+    "id": "sent-80",
+    "hinglish": "Alvida, phir milenge.",
+    "english": "Goodbye, see you again."
+  },
+  {
+    "id": "sent-81",
+    "hinglish": "Apna khayal rakhna.",
+    "english": "Take care of yourself."
+  },
+  {
+    "id": "sent-82",
+    "hinglish": "Shubh raatri.",
+    "english": "Good night."
+  },
+  {
+    "id": "sent-83",
+    "hinglish": "Subah ka namaste.",
+    "english": "Good morning."
+  },
+  {
+    "id": "sent-84",
+    "hinglish": "Mujhe bhookh lagi hai.",
+    "english": "I am hungry."
+  },
+  {
+    "id": "sent-85",
+    "hinglish": "Mujhe pyaas lagi hai.",
+    "english": "I am thirsty."
+  },
+  {
+    "id": "sent-86",
+    "hinglish": "Paani thanda hai.",
+    "english": "The water is cold."
+  },
+  {
+    "id": "sent-87",
+    "hinglish": "Chai garam hai.",
+    "english": "The tea is hot."
+  },
+  {
+    "id": "sent-88",
+    "hinglish": "Mujhe ek aur chai chahiye.",
+    "english": "I want one more tea."
+  },
+  {
+    "id": "sent-89",
+    "hinglish": "Ye dukaan kab khulti hai?",
+    "english": "When does this shop open?"
+  },
+  {
+    "id": "sent-90",
+    "hinglish": "Dukaan 10 baje khulti hai.",
+    "english": "The shop opens at 10."
+  },
+  {
+    "id": "sent-91",
+    "hinglish": "Mujhe bill chahiye.",
+    "english": "I need the bill."
+  },
+  {
+    "id": "sent-92",
+    "hinglish": "Main UPI se paise dunga.",
+    "english": "I will pay by UPI."
+  },
+  {
+    "id": "sent-93",
+    "hinglish": "Tumhara phone number kya hai?",
+    "english": "What is your phone number?"
+  },
+  {
+    "id": "sent-94",
+    "hinglish": "Mera number 98765 43210 hai.",
+    "english": "My number is 98765 43210."
+  },
+  {
+    "id": "sent-95",
+    "hinglish": "Kya tum WhatsApp par ho?",
+    "english": "Are you on WhatsApp?"
+  },
+  {
+    "id": "sent-96",
+    "hinglish": "Haan, main WhatsApp par hoon.",
+    "english": "Yes, I am on WhatsApp."
+  },
+  {
+    "id": "sent-97",
+    "hinglish": "Mujhe message karo.",
+    "english": "Message me."
+  },
+  {
+    "id": "sent-98",
+    "hinglish": "Main tumhe call karunga.",
+    "english": "I will call you."
+  },
+  {
+    "id": "sent-99",
+    "hinglish": "Tum kahan the?",
+    "english": "Where were you?"
+  },
+  {
+    "id": "sent-100",
+    "hinglish": "Main ghar par tha.",
+    "english": "I was at home."
+  },
+  {
+    "id": "sent-101",
+    "hinglish": "Mujhe der ho gayi.",
+    "english": "I am late. / I got late."
+  },
+  {
+    "id": "sent-102",
+    "hinglish": "Koi baat nahi, aao.",
+    "english": "No problem, come in."
+  }
+]
